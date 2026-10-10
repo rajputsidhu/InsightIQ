@@ -13,6 +13,7 @@
 
 ---
 
+## App Link: https://1insightiq.streamlit.app/
 ## 🏗️ Architecture Overview
 
 ```mermaid
