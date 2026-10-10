@@ -1,0 +1,1101 @@
+customer_id,gender,senior_citizen,partner,dependents,tenure_months,phone_service,internet_service,online_security,tech_support,contract_type,paperless_billing,payment_method,support_tickets,monthly_charges,total_charges,churn,churn_reason
+TELCO-5000,Female,0,No,No,25,Yes,No,No,No,One year,Yes,Credit card (automatic),0,29.25,738.82,1,Customer dissatisfaction with support response time
+TELCO-5001,Female,0,Yes,No,33,Yes,No,No,No,Month-to-month,No,Credit card (automatic),1,30.38,1034.22,0,Active Subscriber
+TELCO-5002,Male,1,Yes,No,18,Yes,DSL,No,Yes,Month-to-month,No,Electronic check,0,63.37,1112.15,0,Active Subscriber
+TELCO-5003,Male,0,No,No,36,Yes,Fiber optic,No,No,Month-to-month,No,Mailed check,0,83.16,2786.98,1,Price increase after promotional period
+TELCO-5004,Female,0,No,No,26,Yes,Fiber optic,Yes,No,Month-to-month,No,Credit card (automatic),1,85.88,2105.53,1,Competitor offered better price
+TELCO-5005,Male,1,Yes,Yes,63,Yes,DSL,No,Yes,Two year,No,Credit card (automatic),0,58.07,3698.42,0,Active Subscriber
+TELCO-5006,Female,0,Yes,No,31,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Mailed check,0,98.96,3117.1,1,Customer dissatisfaction with support response time
+TELCO-5007,Female,1,Yes,No,12,Yes,Fiber optic,Yes,No,One year,No,Electronic check,1,77.29,924.9,1,Competitor offered better price
+TELCO-5008,Male,0,No,No,71,Yes,DSL,Yes,Yes,Two year,No,Bank transfer (automatic),5,63.61,4352.09,0,Active Subscriber
+TELCO-5009,Female,0,No,No,34,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Mailed check,4,92.17,3179.75,0,Active Subscriber
+TELCO-5010,Male,0,Yes,Yes,17,Yes,No,No,No,One year,No,Electronic check,4,25.95,416.97,0,Active Subscriber
+TELCO-5011,Female,1,Yes,Yes,38,Yes,No,No,No,One year,No,Bank transfer (automatic),0,26.3,1042.26,0,Active Subscriber
+TELCO-5012,Female,0,Yes,Yes,19,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),3,30.72,545.35,1,Switched to bundled streaming package
+TELCO-5013,Male,0,No,No,12,Yes,DSL,Yes,No,One year,Yes,Bank transfer (automatic),2,63.35,744.24,1,Relocation to uncovered service area
+TELCO-5014,Female,0,No,No,44,Yes,Fiber optic,No,No,One year,Yes,Electronic check,2,80.67,3572.52,1,Switched to bundled streaming package
+TELCO-5015,Male,0,Yes,Yes,25,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),3,24.74,603.0,1,Customer dissatisfaction with support response time
+TELCO-5016,Female,0,No,No,36,Yes,Fiber optic,Yes,No,Two year,Yes,Bank transfer (automatic),1,94.93,3277.84,0,Active Subscriber
+TELCO-5017,Male,0,No,No,30,Yes,DSL,No,No,Month-to-month,No,Credit card (automatic),0,56.31,1646.5,0,Active Subscriber
+TELCO-5018,Female,0,Yes,No,26,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Credit card (automatic),2,87.83,2138.28,0,Active Subscriber
+TELCO-5019,Female,0,Yes,Yes,68,Yes,DSL,No,Yes,Two year,Yes,Electronic check,2,63.22,4140.2,0,Active Subscriber
+TELCO-5020,Male,0,Yes,No,70,Yes,Fiber optic,No,Yes,Two year,Yes,Credit card (automatic),1,101.81,7472.99,0,Active Subscriber
+TELCO-5021,Male,0,Yes,No,8,Yes,Fiber optic,No,No,Month-to-month,No,Mailed check,2,68.11,522.53,0,Active Subscriber
+TELCO-5022,Female,0,No,No,71,Yes,DSL,Yes,Yes,Two year,Yes,Mailed check,1,68.04,4857.27,0,Active Subscriber
+TELCO-5023,Male,1,No,No,28,Yes,Fiber optic,No,Yes,Month-to-month,No,Credit card (automatic),0,89.3,2348.53,1,Price increase after promotional period
+TELCO-5024,Female,0,No,No,30,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),0,32.59,1011.64,1,Price increase after promotional period
+TELCO-5025,Male,0,No,No,9,Yes,Fiber optic,No,No,Month-to-month,No,Credit card (automatic),0,77.9,670.38,0,Active Subscriber
+TELCO-5026,Female,0,No,No,49,Yes,Fiber optic,Yes,No,One year,No,Credit card (automatic),0,96.85,4955.29,1,Switched to bundled streaming package
+TELCO-5027,Male,0,Yes,No,23,Yes,Fiber optic,Yes,Yes,One year,No,Credit card (automatic),3,99.53,2322.75,1,Service reliability and speed issues
+TELCO-5028,Male,0,Yes,Yes,29,Yes,DSL,No,Yes,Month-to-month,Yes,Mailed check,0,53.63,1507.2,0,Active Subscriber
+TELCO-5029,Female,0,Yes,Yes,9,Yes,DSL,Yes,Yes,Month-to-month,No,Credit card (automatic),1,63.53,592.43,0,Active Subscriber
+TELCO-5030,Female,0,No,No,36,Yes,Fiber optic,No,No,Month-to-month,Yes,Credit card (automatic),0,90.35,3353.25,1,Competitor offered better price
+TELCO-5031,Male,0,No,No,19,Yes,DSL,Yes,No,Month-to-month,No,Credit card (automatic),2,53.24,1051.92,1,Customer dissatisfaction with support response time
+TELCO-5032,Female,0,Yes,No,40,Yes,DSL,Yes,Yes,Two year,Yes,Bank transfer (automatic),0,72.4,2910.25,0,Active Subscriber
+TELCO-5033,Male,0,No,No,60,Yes,DSL,No,Yes,Two year,Yes,Bank transfer (automatic),5,65.98,4107.5,0,Active Subscriber
+TELCO-5034,Male,1,No,No,65,Yes,Fiber optic,No,Yes,Two year,No,Bank transfer (automatic),2,83.42,5235.41,0,Active Subscriber
+TELCO-5035,Male,0,Yes,Yes,15,Yes,Fiber optic,Yes,No,One year,No,Mailed check,0,93.24,1357.1,0,Active Subscriber
+TELCO-5036,Male,0,Yes,No,29,Yes,Fiber optic,Yes,No,Two year,Yes,Credit card (automatic),2,81.49,2354.99,0,Active Subscriber
+TELCO-5037,Male,1,Yes,No,21,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Bank transfer (automatic),0,79.24,1606.56,1,Switched to bundled streaming package
+TELCO-5038,Male,0,Yes,Yes,20,Yes,DSL,Yes,No,Month-to-month,No,Mailed check,1,65.91,1374.07,1,Switched to bundled streaming package
+TELCO-5039,Male,0,No,No,45,Yes,DSL,Yes,Yes,One year,Yes,Electronic check,0,73.45,3139.89,0,Active Subscriber
+TELCO-5040,Male,0,Yes,No,49,Yes,DSL,Yes,No,One year,Yes,Electronic check,0,54.69,2599.26,0,Active Subscriber
+TELCO-5041,Female,0,No,No,20,Yes,Fiber optic,No,Yes,Month-to-month,No,Electronic check,3,86.97,1607.33,1,Service reliability and speed issues
+TELCO-5042,Female,0,Yes,No,28,Yes,No,No,No,Month-to-month,Yes,Electronic check,1,26.77,765.86,0,Active Subscriber
+TELCO-5043,Female,1,No,No,30,Yes,DSL,Yes,No,Month-to-month,Yes,Mailed check,3,72.1,2199.62,1,Switched to bundled streaming package
+TELCO-5044,Female,0,Yes,No,17,Yes,DSL,No,No,Month-to-month,Yes,Electronic check,0,45.54,790.99,0,Active Subscriber
+TELCO-5045,Female,1,No,No,36,Yes,Fiber optic,No,No,Month-to-month,Yes,Electronic check,0,83.34,2845.19,1,Service reliability and speed issues
+TELCO-5046,Male,0,No,No,21,Yes,Fiber optic,Yes,Yes,One year,Yes,Mailed check,0,109.31,2371.86,1,Switched to bundled streaming package
+TELCO-5047,Female,0,Yes,No,17,Yes,No,No,No,Month-to-month,No,Electronic check,1,32.91,515.88,1,Competitor offered better price
+TELCO-5048,Female,0,Yes,Yes,19,Yes,Fiber optic,Yes,No,Month-to-month,No,Bank transfer (automatic),0,98.51,1756.77,1,Switched to bundled streaming package
+TELCO-5049,Female,0,No,No,25,Yes,Fiber optic,Yes,Yes,One year,No,Mailed check,0,87.06,2231.01,0,Active Subscriber
+TELCO-5050,Male,0,Yes,No,60,Yes,No,No,No,Two year,No,Electronic check,2,28.22,1696.49,0,Active Subscriber
+TELCO-5051,Male,0,No,No,24,Yes,Fiber optic,No,Yes,Month-to-month,No,Electronic check,1,91.18,2078.94,1,Relocation to uncovered service area
+TELCO-5052,Female,0,Yes,No,20,Yes,DSL,Yes,No,One year,Yes,Credit card (automatic),1,63.0,1310.83,0,Active Subscriber
+TELCO-5053,Female,0,No,No,13,Yes,Fiber optic,No,Yes,Month-to-month,No,Electronic check,0,92.38,1245.35,1,Price increase after promotional period
+TELCO-5054,Female,0,Yes,No,57,Yes,Fiber optic,Yes,Yes,Two year,No,Bank transfer (automatic),0,94.0,5569.22,0,Active Subscriber
+TELCO-5055,Male,0,Yes,Yes,46,Yes,Fiber optic,Yes,Yes,Two year,No,Credit card (automatic),2,97.99,4703.57,0,Active Subscriber
+TELCO-5056,Female,0,Yes,No,21,Yes,No,No,No,One year,No,Credit card (automatic),0,27.6,600.71,0,Active Subscriber
+TELCO-5057,Female,1,Yes,Yes,21,Yes,Fiber optic,No,No,Month-to-month,Yes,Electronic check,2,80.9,1730.24,1,Switched to bundled streaming package
+TELCO-5058,Male,0,No,No,29,Yes,DSL,Yes,No,One year,Yes,Mailed check,0,52.8,1505.57,0,Active Subscriber
+TELCO-5059,Male,1,No,No,3,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Electronic check,1,108.36,339.64,0,Active Subscriber
+TELCO-5060,Female,0,No,No,19,Yes,DSL,Yes,No,One year,No,Credit card (automatic),0,70.34,1306.75,0,Active Subscriber
+TELCO-5061,Female,0,Yes,No,45,Yes,DSL,No,Yes,Two year,Yes,Bank transfer (automatic),3,57.06,2454.45,1,Competitor offered better price
+TELCO-5062,Female,0,Yes,No,21,Yes,Fiber optic,Yes,Yes,One year,Yes,Credit card (automatic),0,99.65,2057.05,0,Active Subscriber
+TELCO-5063,Male,1,Yes,Yes,17,Yes,DSL,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),1,67.73,1151.11,0,Active Subscriber
+TELCO-5064,Male,1,Yes,No,26,Yes,DSL,No,No,One year,No,Credit card (automatic),4,54.7,1329.2,1,Switched to bundled streaming package
+TELCO-5065,Female,0,No,No,54,Yes,DSL,Yes,No,Two year,No,Credit card (automatic),1,63.72,3541.41,0,Active Subscriber
+TELCO-5066,Female,0,No,No,29,Yes,DSL,No,No,Month-to-month,No,Electronic check,0,50.23,1420.66,0,Active Subscriber
+TELCO-5067,Female,0,Yes,Yes,22,Yes,DSL,Yes,Yes,Month-to-month,Yes,Electronic check,2,72.92,1502.85,1,Switched to bundled streaming package
+TELCO-5068,Female,1,Yes,No,15,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Bank transfer (automatic),0,90.43,1299.11,1,Switched to bundled streaming package
+TELCO-5069,Male,1,Yes,No,31,Yes,DSL,Yes,No,One year,Yes,Electronic check,0,59.25,1695.6,1,Relocation to uncovered service area
+TELCO-5070,Female,0,No,No,58,Yes,Fiber optic,Yes,No,Two year,Yes,Electronic check,2,85.25,4937.74,0,Active Subscriber
+TELCO-5071,Male,0,No,No,18,Yes,Fiber optic,No,No,One year,No,Credit card (automatic),0,86.92,1493.15,1,Relocation to uncovered service area
+TELCO-5072,Female,0,Yes,Yes,25,Yes,DSL,No,Yes,Two year,Yes,Credit card (automatic),0,68.74,1669.79,0,Active Subscriber
+TELCO-5073,Female,0,Yes,Yes,16,Yes,No,No,No,Month-to-month,No,Credit card (automatic),1,27.39,407.96,0,Active Subscriber
+TELCO-5074,Male,0,No,No,27,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Mailed check,2,95.29,2658.47,0,Active Subscriber
+TELCO-5075,Female,0,Yes,Yes,16,Yes,DSL,Yes,Yes,One year,Yes,Mailed check,1,77.56,1202.29,1,Customer dissatisfaction with support response time
+TELCO-5076,Female,1,Yes,Yes,36,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Bank transfer (automatic),0,99.3,3483.14,0,Active Subscriber
+TELCO-5077,Female,0,No,No,28,Yes,Fiber optic,No,Yes,One year,Yes,Bank transfer (automatic),3,88.52,2432.4,0,Active Subscriber
+TELCO-5078,Male,0,No,No,13,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0,91.44,1124.42,1,Relocation to uncovered service area
+TELCO-5079,Male,0,Yes,Yes,26,Yes,Fiber optic,No,No,Month-to-month,Yes,Electronic check,1,76.72,2077.42,1,Customer dissatisfaction with support response time
+TELCO-5080,Female,0,Yes,Yes,1,Yes,DSL,No,No,Month-to-month,Yes,Electronic check,3,50.05,51.14,1,Customer dissatisfaction with support response time
+TELCO-5081,Male,0,Yes,Yes,44,Yes,Fiber optic,No,No,Two year,Yes,Mailed check,1,84.55,3568.91,0,Active Subscriber
+TELCO-5082,Female,0,No,No,18,Yes,DSL,Yes,Yes,Month-to-month,No,Credit card (automatic),1,78.36,1428.08,0,Active Subscriber
+TELCO-5083,Male,0,No,No,25,Yes,Fiber optic,No,No,One year,Yes,Credit card (automatic),0,92.34,2308.98,0,Active Subscriber
+TELCO-5084,Male,0,No,No,33,Yes,Fiber optic,No,Yes,Month-to-month,No,Electronic check,1,93.28,3200.76,0,Active Subscriber
+TELCO-5085,Female,0,No,No,30,Yes,Fiber optic,No,Yes,Month-to-month,No,Electronic check,0,99.41,2933.81,1,Switched to bundled streaming package
+TELCO-5086,Male,0,Yes,No,4,Yes,Fiber optic,No,Yes,Month-to-month,No,Mailed check,1,100.93,387.91,0,Active Subscriber
+TELCO-5087,Female,0,No,No,49,Yes,Fiber optic,Yes,No,Two year,Yes,Electronic check,0,105.07,5015.24,0,Active Subscriber
+TELCO-5088,Male,0,Yes,Yes,1,Yes,DSL,Yes,No,Month-to-month,No,Electronic check,0,67.32,64.66,1,Switched to bundled streaming package
+TELCO-5089,Male,0,No,No,6,Yes,No,No,No,Month-to-month,Yes,Mailed check,2,24.01,136.01,1,Service reliability and speed issues
+TELCO-5090,Female,0,Yes,Yes,20,Yes,No,No,No,One year,No,Bank transfer (automatic),0,31.51,605.22,1,Service reliability and speed issues
+TELCO-5091,Female,0,Yes,Yes,29,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),1,24.85,687.78,1,Switched to bundled streaming package
+TELCO-5092,Female,0,Yes,Yes,67,Yes,Fiber optic,No,Yes,Two year,Yes,Bank transfer (automatic),1,91.58,6280.15,0,Active Subscriber
+TELCO-5093,Female,0,Yes,Yes,21,Yes,Fiber optic,No,Yes,Month-to-month,No,Electronic check,0,80.84,1643.99,1,Service reliability and speed issues
+TELCO-5094,Male,0,No,No,35,Yes,DSL,No,No,Month-to-month,Yes,Credit card (automatic),2,45.29,1496.7,1,Price increase after promotional period
+TELCO-5095,Female,0,No,No,43,Yes,Fiber optic,No,No,Two year,Yes,Electronic check,0,81.93,3259.53,0,Active Subscriber
+TELCO-5096,Female,0,Yes,No,57,Yes,No,No,No,Two year,Yes,Mailed check,1,32.62,1758.56,0,Active Subscriber
+TELCO-5097,Male,1,No,No,54,Yes,Fiber optic,Yes,No,One year,Yes,Bank transfer (automatic),0,86.99,4411.73,0,Active Subscriber
+TELCO-5098,Male,0,Yes,Yes,47,Yes,DSL,No,Yes,One year,Yes,Credit card (automatic),1,53.17,2522.19,0,Active Subscriber
+TELCO-5099,Male,0,Yes,Yes,21,Yes,No,No,No,Month-to-month,No,Credit card (automatic),1,26.4,574.77,1,Switched to bundled streaming package
+TELCO-5100,Male,0,Yes,No,9,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Mailed check,0,98.57,873.82,1,Relocation to uncovered service area
+TELCO-5101,Male,0,No,No,26,Yes,DSL,No,No,Month-to-month,Yes,Credit card (automatic),2,51.18,1342.26,1,Switched to bundled streaming package
+TELCO-5102,Male,0,No,No,65,Yes,Fiber optic,No,No,Two year,No,Credit card (automatic),2,73.51,4992.16,0,Active Subscriber
+TELCO-5103,Female,0,Yes,No,47,Yes,DSL,No,No,Two year,Yes,Credit card (automatic),1,56.88,2498.3,0,Active Subscriber
+TELCO-5104,Male,0,No,No,42,Yes,DSL,No,No,Two year,No,Credit card (automatic),0,46.4,1802.99,0,Active Subscriber
+TELCO-5105,Female,0,No,No,38,Yes,DSL,Yes,No,One year,No,Bank transfer (automatic),1,53.58,1877.79,0,Active Subscriber
+TELCO-5106,Female,0,No,No,18,Yes,Fiber optic,No,Yes,Month-to-month,No,Mailed check,3,83.63,1452.5,0,Active Subscriber
+TELCO-5107,Female,0,No,No,6,Yes,Fiber optic,No,Yes,Month-to-month,No,Credit card (automatic),0,102.18,590.95,1,Switched to bundled streaming package
+TELCO-5108,Female,0,Yes,No,35,Yes,Fiber optic,No,No,Month-to-month,Yes,Electronic check,0,77.6,2800.34,1,Relocation to uncovered service area
+TELCO-5109,Female,0,Yes,Yes,25,Yes,DSL,No,No,One year,No,Mailed check,0,55.7,1284.49,0,Active Subscriber
+TELCO-5110,Female,0,Yes,Yes,22,Yes,Fiber optic,No,No,Month-to-month,No,Electronic check,0,79.74,1737.42,1,Relocation to uncovered service area
+TELCO-5111,Male,0,No,No,6,Yes,DSL,No,No,Month-to-month,No,Electronic check,0,52.45,315.35,0,Active Subscriber
+TELCO-5112,Female,0,No,No,27,Yes,DSL,No,Yes,Month-to-month,Yes,Bank transfer (automatic),1,60.55,1715.71,0,Active Subscriber
+TELCO-5113,Male,0,Yes,Yes,35,Yes,Fiber optic,Yes,Yes,Two year,No,Credit card (automatic),0,99.19,3584.26,0,Active Subscriber
+TELCO-5114,Female,0,No,No,37,Yes,DSL,No,No,One year,No,Bank transfer (automatic),2,54.78,1995.1,0,Active Subscriber
+TELCO-5115,Male,0,Yes,No,27,Yes,DSL,No,Yes,Month-to-month,No,Mailed check,1,60.97,1722.99,0,Active Subscriber
+TELCO-5116,Male,0,Yes,No,27,Yes,No,No,No,One year,No,Electronic check,4,25.58,650.35,1,Price increase after promotional period
+TELCO-5117,Female,0,Yes,No,13,Yes,Fiber optic,No,Yes,Month-to-month,No,Electronic check,3,104.8,1310.57,1,Relocation to uncovered service area
+TELCO-5118,Female,0,No,No,34,Yes,DSL,No,Yes,Two year,Yes,Electronic check,2,76.19,2465.68,0,Active Subscriber
+TELCO-5119,Female,1,No,No,62,Yes,Fiber optic,Yes,No,Two year,Yes,Credit card (automatic),1,91.22,5678.95,0,Active Subscriber
+TELCO-5120,Female,0,Yes,Yes,28,Yes,DSL,Yes,No,One year,Yes,Mailed check,0,60.88,1736.23,0,Active Subscriber
+TELCO-5121,Male,1,No,No,32,Yes,Fiber optic,No,Yes,Month-to-month,No,Bank transfer (automatic),0,99.73,3248.25,1,Relocation to uncovered service area
+TELCO-5122,Female,0,Yes,No,20,Yes,Fiber optic,No,No,Month-to-month,Yes,Bank transfer (automatic),1,79.27,1653.29,1,Service reliability and speed issues
+TELCO-5123,Male,0,Yes,Yes,10,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Bank transfer (automatic),2,104.15,1037.28,0,Active Subscriber
+TELCO-5124,Female,0,Yes,No,43,Yes,DSL,No,No,One year,No,Mailed check,1,59.04,2549.61,0,Active Subscriber
+TELCO-5125,Male,0,No,No,30,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Mailed check,2,101.09,3014.57,1,Competitor offered better price
+TELCO-5126,Female,0,No,No,34,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Mailed check,1,109.15,3533.84,0,Active Subscriber
+TELCO-5127,Male,0,No,No,18,Yes,No,No,No,Month-to-month,Yes,Electronic check,3,24.92,418.0,1,Service reliability and speed issues
+TELCO-5128,Male,0,Yes,No,16,Yes,DSL,No,Yes,One year,Yes,Credit card (automatic),0,68.74,1039.94,0,Active Subscriber
+TELCO-5129,Male,0,No,No,24,Yes,DSL,No,Yes,One year,No,Electronic check,0,73.47,1757.22,0,Active Subscriber
+TELCO-5130,Female,0,Yes,Yes,36,Yes,Fiber optic,Yes,No,Month-to-month,No,Electronic check,4,91.66,3251.58,0,Active Subscriber
+TELCO-5131,Female,0,No,No,29,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Mailed check,2,100.39,2808.01,0,Active Subscriber
+TELCO-5132,Male,0,No,No,10,Yes,DSL,Yes,No,Month-to-month,Yes,Credit card (automatic),2,57.82,556.28,0,Active Subscriber
+TELCO-5133,Male,0,No,No,42,Yes,DSL,Yes,No,One year,No,Bank transfer (automatic),0,71.96,3147.63,0,Active Subscriber
+TELCO-5134,Female,0,No,No,26,Yes,Fiber optic,Yes,No,Month-to-month,No,Bank transfer (automatic),1,91.26,2200.0,1,Relocation to uncovered service area
+TELCO-5135,Female,0,Yes,Yes,32,Yes,Fiber optic,No,No,One year,Yes,Mailed check,1,83.17,2641.61,0,Active Subscriber
+TELCO-5136,Female,0,Yes,Yes,14,Yes,No,No,No,One year,No,Credit card (automatic),0,28.52,407.89,0,Active Subscriber
+TELCO-5137,Female,0,Yes,No,5,Yes,Fiber optic,No,Yes,Month-to-month,No,Mailed check,3,96.95,466.42,1,Price increase after promotional period
+TELCO-5138,Male,0,No,No,9,Yes,DSL,No,No,Month-to-month,Yes,Bank transfer (automatic),4,61.03,560.46,1,Relocation to uncovered service area
+TELCO-5139,Male,0,No,No,2,Yes,Fiber optic,No,No,Month-to-month,No,Credit card (automatic),0,77.62,145.65,1,Competitor offered better price
+TELCO-5140,Male,1,No,No,22,Yes,Fiber optic,No,No,Month-to-month,Yes,Electronic check,4,70.75,1560.34,1,Price increase after promotional period
+TELCO-5141,Male,0,Yes,No,30,Yes,DSL,No,Yes,Month-to-month,Yes,Bank transfer (automatic),0,63.86,1874.93,0,Active Subscriber
+TELCO-5142,Female,0,No,No,44,Yes,Fiber optic,Yes,No,Two year,No,Mailed check,1,80.97,3475.5,0,Active Subscriber
+TELCO-5143,Female,0,Yes,No,25,Yes,Fiber optic,Yes,Yes,One year,Yes,Electronic check,1,111.11,2666.93,0,Active Subscriber
+TELCO-5144,Male,0,No,No,34,Yes,Fiber optic,Yes,Yes,Two year,No,Mailed check,4,93.53,3101.02,0,Active Subscriber
+TELCO-5145,Female,0,No,No,14,Yes,No,No,No,Month-to-month,No,Credit card (automatic),0,22.28,302.39,1,Relocation to uncovered service area
+TELCO-5146,Male,0,Yes,No,50,Yes,DSL,Yes,Yes,One year,No,Credit card (automatic),0,72.79,3517.91,0,Active Subscriber
+TELCO-5147,Female,0,Yes,No,20,Yes,Fiber optic,No,Yes,Month-to-month,No,Bank transfer (automatic),0,89.36,1838.58,0,Active Subscriber
+TELCO-5148,Female,1,Yes,No,1,Yes,DSL,Yes,Yes,Month-to-month,Yes,Mailed check,1,66.8,62.57,0,Active Subscriber
+TELCO-5149,Male,0,Yes,No,45,Yes,Fiber optic,No,Yes,One year,Yes,Bank transfer (automatic),3,87.19,4102.03,1,Customer dissatisfaction with support response time
+TELCO-5150,Male,0,No,No,22,Yes,Fiber optic,Yes,No,Month-to-month,No,Electronic check,2,100.44,2041.09,1,Relocation to uncovered service area
+TELCO-5151,Male,0,Yes,Yes,5,Yes,No,No,No,Month-to-month,No,Credit card (automatic),5,23.01,107.53,0,Active Subscriber
+TELCO-5152,Female,0,Yes,Yes,35,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),1,23.41,792.74,0,Active Subscriber
+TELCO-5153,Male,0,Yes,No,7,Yes,DSL,No,No,Month-to-month,No,Mailed check,2,62.9,419.37,1,Switched to bundled streaming package
+TELCO-5154,Female,0,No,No,36,Yes,Fiber optic,Yes,Yes,One year,Yes,Mailed check,0,101.67,3667.97,0,Active Subscriber
+TELCO-5155,Male,0,No,No,14,Yes,DSL,No,Yes,Month-to-month,No,Credit card (automatic),0,69.84,957.14,1,Price increase after promotional period
+TELCO-5156,Female,0,Yes,Yes,40,Yes,DSL,No,Yes,Two year,No,Credit card (automatic),1,68.63,2548.11,0,Active Subscriber
+TELCO-5157,Male,0,No,No,51,Yes,Fiber optic,No,Yes,Two year,Yes,Mailed check,0,94.63,4787.18,0,Active Subscriber
+TELCO-5158,Male,0,Yes,No,24,Yes,DSL,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),0,76.69,1822.39,0,Active Subscriber
+TELCO-5159,Male,1,Yes,No,57,Yes,Fiber optic,No,Yes,Two year,No,Credit card (automatic),0,84.31,5028.47,0,Active Subscriber
+TELCO-5160,Female,0,No,No,20,Yes,DSL,Yes,Yes,One year,Yes,Mailed check,0,71.44,1341.2,0,Active Subscriber
+TELCO-5161,Female,0,Yes,Yes,10,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Bank transfer (automatic),2,97.34,921.57,1,Competitor offered better price
+TELCO-5162,Female,0,No,No,22,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Credit card (automatic),2,92.22,2097.38,1,Switched to bundled streaming package
+TELCO-5163,Female,0,Yes,No,50,Yes,DSL,Yes,Yes,One year,No,Mailed check,3,72.35,3779.44,0,Active Subscriber
+TELCO-5164,Female,0,Yes,No,17,Yes,DSL,No,No,Month-to-month,Yes,Electronic check,0,50.75,903.99,0,Active Subscriber
+TELCO-5165,Male,0,Yes,No,54,Yes,Fiber optic,No,No,One year,Yes,Electronic check,1,89.29,4675.74,1,Customer dissatisfaction with support response time
+TELCO-5166,Female,0,No,No,57,Yes,DSL,No,No,Two year,No,Credit card (automatic),1,48.9,2577.82,0,Active Subscriber
+TELCO-5167,Male,0,No,No,30,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),2,30.82,952.73,1,Customer dissatisfaction with support response time
+TELCO-5168,Female,0,Yes,Yes,47,Yes,DSL,Yes,Yes,One year,No,Bank transfer (automatic),2,77.67,3666.1,0,Active Subscriber
+TELCO-5169,Female,1,No,No,7,Yes,DSL,No,Yes,Month-to-month,Yes,Credit card (automatic),0,73.19,532.23,1,Customer dissatisfaction with support response time
+TELCO-5170,Female,0,No,No,11,Yes,No,No,No,Month-to-month,No,Electronic check,0,31.85,366.01,1,Price increase after promotional period
+TELCO-5171,Female,0,Yes,Yes,33,Yes,Fiber optic,No,No,One year,No,Mailed check,3,70.41,2298.59,1,Switched to bundled streaming package
+TELCO-5172,Female,0,Yes,Yes,10,Yes,No,No,No,Month-to-month,No,Electronic check,1,24.7,248.67,0,Active Subscriber
+TELCO-5173,Male,0,Yes,Yes,50,Yes,Fiber optic,No,Yes,Two year,Yes,Credit card (automatic),0,92.15,4572.12,0,Active Subscriber
+TELCO-5174,Female,0,No,No,27,Yes,DSL,No,No,One year,No,Electronic check,4,60.8,1578.6,1,Switched to bundled streaming package
+TELCO-5175,Male,0,Yes,Yes,58,Yes,No,No,No,Two year,Yes,Bank transfer (automatic),2,29.79,1660.01,0,Active Subscriber
+TELCO-5176,Male,0,Yes,No,36,Yes,DSL,Yes,Yes,Month-to-month,No,Credit card (automatic),3,67.13,2427.64,1,Switched to bundled streaming package
+TELCO-5177,Female,0,No,No,50,Yes,No,No,No,One year,Yes,Credit card (automatic),0,30.01,1476.2,0,Active Subscriber
+TELCO-5178,Female,0,No,No,4,Yes,DSL,Yes,No,Month-to-month,No,Electronic check,2,70.9,287.17,1,Competitor offered better price
+TELCO-5179,Female,0,Yes,Yes,43,Yes,DSL,Yes,Yes,One year,No,Electronic check,0,69.83,3046.91,0,Active Subscriber
+TELCO-5180,Female,0,No,No,39,Yes,Fiber optic,No,Yes,One year,No,Electronic check,0,87.77,3540.37,0,Active Subscriber
+TELCO-5181,Male,0,Yes,Yes,18,Yes,DSL,Yes,Yes,One year,Yes,Electronic check,0,67.82,1149.84,0,Active Subscriber
+TELCO-5182,Female,1,Yes,Yes,21,Yes,Fiber optic,Yes,No,One year,Yes,Credit card (automatic),2,88.96,1864.36,0,Active Subscriber
+TELCO-5183,Male,0,No,No,7,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Mailed check,3,98.04,662.52,1,Price increase after promotional period
+TELCO-5184,Male,1,No,No,48,Yes,No,No,No,Two year,Yes,Electronic check,0,28.03,1374.94,0,Active Subscriber
+TELCO-5185,Male,1,No,No,6,Yes,Fiber optic,Yes,No,Month-to-month,No,Credit card (automatic),2,91.49,552.37,1,Service reliability and speed issues
+TELCO-5186,Female,0,Yes,Yes,32,Yes,Fiber optic,Yes,No,One year,No,Bank transfer (automatic),1,87.94,2794.28,0,Active Subscriber
+TELCO-5187,Female,0,Yes,No,35,Yes,No,No,No,Month-to-month,No,Electronic check,1,25.38,837.26,1,Service reliability and speed issues
+TELCO-5188,Female,0,Yes,No,14,Yes,Fiber optic,No,Yes,One year,Yes,Credit card (automatic),4,94.66,1376.11,0,Active Subscriber
+TELCO-5189,Female,0,Yes,No,19,Yes,DSL,Yes,No,One year,Yes,Mailed check,1,60.58,1197.25,0,Active Subscriber
+TELCO-5190,Female,1,No,No,39,Yes,Fiber optic,Yes,Yes,Two year,No,Credit card (automatic),1,103.31,4032.43,0,Active Subscriber
+TELCO-5191,Female,0,No,No,13,Yes,Fiber optic,No,No,Month-to-month,No,Bank transfer (automatic),1,92.74,1237.18,0,Active Subscriber
+TELCO-5192,Female,0,No,No,32,Yes,DSL,Yes,Yes,Month-to-month,No,Mailed check,4,62.81,1866.5,1,Switched to bundled streaming package
+TELCO-5193,Female,0,No,No,13,Yes,DSL,No,Yes,Month-to-month,No,Mailed check,0,62.68,850.31,0,Active Subscriber
+TELCO-5194,Female,0,Yes,Yes,47,Yes,Fiber optic,Yes,Yes,Two year,Yes,Credit card (automatic),1,105.05,4823.56,1,Price increase after promotional period
+TELCO-5195,Male,0,No,No,13,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Credit card (automatic),0,81.91,1104.45,0,Active Subscriber
+TELCO-5196,Male,0,Yes,Yes,21,Yes,Fiber optic,No,Yes,One year,No,Electronic check,0,91.94,1913.61,1,Price increase after promotional period
+TELCO-5197,Male,0,Yes,No,4,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Mailed check,2,107.22,439.94,1,Price increase after promotional period
+TELCO-5198,Male,0,No,No,39,Yes,DSL,No,No,Two year,No,Bank transfer (automatic),5,56.25,2213.0,0,Active Subscriber
+TELCO-5199,Female,1,Yes,No,34,Yes,Fiber optic,No,Yes,Two year,Yes,Credit card (automatic),2,93.73,3084.36,0,Active Subscriber
+TELCO-5200,Female,0,Yes,No,30,Yes,DSL,No,No,Month-to-month,No,Credit card (automatic),1,54.84,1670.45,1,Switched to bundled streaming package
+TELCO-5201,Female,0,Yes,Yes,38,Yes,DSL,No,No,One year,No,Mailed check,0,62.25,2291.52,0,Active Subscriber
+TELCO-5202,Female,0,No,No,28,Yes,Fiber optic,No,Yes,Month-to-month,No,Electronic check,1,98.34,2597.78,1,Switched to bundled streaming package
+TELCO-5203,Male,0,Yes,No,32,Yes,No,No,No,One year,Yes,Credit card (automatic),0,23.66,742.67,0,Active Subscriber
+TELCO-5204,Male,0,Yes,Yes,6,Yes,No,No,No,Month-to-month,No,Mailed check,2,22.58,130.16,0,Active Subscriber
+TELCO-5205,Female,1,No,No,23,Yes,Fiber optic,No,No,One year,Yes,Mailed check,3,88.82,1956.38,1,Relocation to uncovered service area
+TELCO-5206,Male,0,No,No,10,Yes,DSL,Yes,No,Month-to-month,Yes,Electronic check,0,67.78,703.69,1,Relocation to uncovered service area
+TELCO-5207,Female,0,Yes,No,55,Yes,Fiber optic,No,Yes,Two year,No,Bank transfer (automatic),5,95.65,5487.27,0,Active Subscriber
+TELCO-5208,Male,0,No,No,54,Yes,No,No,No,One year,No,Bank transfer (automatic),2,23.22,1185.7,0,Active Subscriber
+TELCO-5209,Male,0,No,No,11,Yes,No,No,No,Month-to-month,No,Mailed check,1,26.6,283.08,0,Active Subscriber
+TELCO-5210,Male,0,Yes,Yes,30,Yes,Fiber optic,No,No,Month-to-month,No,Electronic check,0,76.42,2305.72,0,Active Subscriber
+TELCO-5211,Male,0,Yes,Yes,33,Yes,DSL,No,No,Month-to-month,No,Credit card (automatic),2,51.52,1752.82,1,Service reliability and speed issues
+TELCO-5212,Female,0,No,No,8,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Electronic check,0,95.47,704.94,1,Competitor offered better price
+TELCO-5213,Male,0,Yes,No,64,Yes,Fiber optic,Yes,No,Two year,No,Bank transfer (automatic),2,76.99,5151.72,0,Active Subscriber
+TELCO-5214,Male,0,Yes,Yes,55,Yes,Fiber optic,Yes,Yes,One year,Yes,Electronic check,0,91.6,4787.61,0,Active Subscriber
+TELCO-5215,Male,0,Yes,No,1,Yes,DSL,No,Yes,Month-to-month,Yes,Bank transfer (automatic),0,61.07,56.82,1,Customer dissatisfaction with support response time
+TELCO-5216,Male,0,Yes,Yes,56,Yes,DSL,No,No,Two year,Yes,Credit card (automatic),0,52.03,2923.23,0,Active Subscriber
+TELCO-5217,Male,0,No,No,4,Yes,Fiber optic,No,No,Month-to-month,No,Electronic check,1,78.16,312.82,0,Active Subscriber
+TELCO-5218,Female,0,Yes,Yes,50,Yes,No,No,No,One year,Yes,Bank transfer (automatic),2,29.68,1496.12,0,Active Subscriber
+TELCO-5219,Female,0,No,No,3,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Credit card (automatic),3,101.24,306.7,1,Relocation to uncovered service area
+TELCO-5220,Female,1,No,No,21,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Credit card (automatic),0,99.62,2028.4,1,Switched to bundled streaming package
+TELCO-5221,Male,0,Yes,Yes,11,Yes,DSL,Yes,Yes,Month-to-month,No,Mailed check,0,69.53,733.82,0,Active Subscriber
+TELCO-5222,Female,0,Yes,No,21,Yes,Fiber optic,No,No,One year,No,Mailed check,0,75.81,1513.32,1,Service reliability and speed issues
+TELCO-5223,Male,0,No,No,35,Yes,Fiber optic,No,Yes,One year,Yes,Bank transfer (automatic),1,83.19,2984.23,0,Active Subscriber
+TELCO-5224,Male,0,No,No,21,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),1,29.57,622.46,0,Active Subscriber
+TELCO-5225,Female,0,Yes,No,42,Yes,DSL,Yes,Yes,One year,No,Electronic check,0,79.05,3438.87,1,Service reliability and speed issues
+TELCO-5226,Male,0,No,No,29,Yes,No,No,No,One year,No,Mailed check,2,32.54,876.38,0,Active Subscriber
+TELCO-5227,Male,0,Yes,No,21,Yes,Fiber optic,Yes,No,Month-to-month,No,Mailed check,2,90.74,1873.17,0,Active Subscriber
+TELCO-5228,Male,0,Yes,No,1,Yes,DSL,No,No,Month-to-month,Yes,Mailed check,0,53.94,51.72,1,Switched to bundled streaming package
+TELCO-5229,Female,0,No,No,36,Yes,No,No,No,One year,No,Bank transfer (automatic),0,26.91,961.19,0,Active Subscriber
+TELCO-5230,Female,0,No,No,21,Yes,DSL,Yes,Yes,Month-to-month,No,Mailed check,0,65.42,1362.6,0,Active Subscriber
+TELCO-5231,Male,0,No,No,3,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Mailed check,1,97.29,302.03,0,Active Subscriber
+TELCO-5232,Male,0,Yes,No,5,Yes,DSL,Yes,No,Month-to-month,Yes,Credit card (automatic),1,69.12,340.08,1,Customer dissatisfaction with support response time
+TELCO-5233,Male,0,No,No,36,Yes,DSL,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0,73.65,2447.64,1,Customer dissatisfaction with support response time
+TELCO-5234,Male,1,Yes,No,27,Yes,DSL,No,Yes,Month-to-month,Yes,Mailed check,1,67.47,1806.21,1,Price increase after promotional period
+TELCO-5235,Female,0,Yes,No,14,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0,23.81,313.27,1,Relocation to uncovered service area
+TELCO-5236,Male,0,No,No,29,Yes,Fiber optic,No,Yes,Month-to-month,No,Mailed check,0,87.17,2523.98,1,Competitor offered better price
+TELCO-5237,Male,0,No,No,65,Yes,DSL,No,No,Two year,No,Mailed check,1,60.4,3931.48,0,Active Subscriber
+TELCO-5238,Male,0,No,No,21,Yes,No,No,No,Month-to-month,No,Mailed check,3,26.27,540.37,1,Price increase after promotional period
+TELCO-5239,Female,0,Yes,Yes,1,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Mailed check,0,96.04,92.15,1,Switched to bundled streaming package
+TELCO-5240,Male,1,No,No,17,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Electronic check,3,88.77,1478.0,1,Switched to bundled streaming package
+TELCO-5241,Male,1,No,No,31,Yes,Fiber optic,No,No,Month-to-month,Yes,Mailed check,0,84.47,2430.63,0,Active Subscriber
+TELCO-5242,Male,0,No,No,41,Yes,Fiber optic,Yes,Yes,Two year,No,Mailed check,2,115.01,4773.35,1,Service reliability and speed issues
+TELCO-5243,Male,0,No,No,60,Yes,No,No,No,Two year,No,Credit card (automatic),2,22.49,1387.99,0,Active Subscriber
+TELCO-5244,Male,0,Yes,No,23,Yes,DSL,Yes,No,Month-to-month,No,Bank transfer (automatic),1,55.99,1252.88,1,Service reliability and speed issues
+TELCO-5245,Male,0,No,No,33,Yes,Fiber optic,No,Yes,One year,No,Credit card (automatic),2,105.96,3637.29,0,Active Subscriber
+TELCO-5246,Male,1,No,No,22,Yes,No,No,No,Month-to-month,Yes,Mailed check,4,28.88,629.15,0,Active Subscriber
+TELCO-5247,Female,0,No,No,57,Yes,No,No,No,Two year,Yes,Bank transfer (automatic),4,27.98,1488.8,0,Active Subscriber
+TELCO-5248,Male,0,No,No,26,Yes,Fiber optic,No,No,Month-to-month,No,Credit card (automatic),1,89.48,2206.62,0,Active Subscriber
+TELCO-5249,Male,0,No,No,5,Yes,DSL,Yes,Yes,Month-to-month,No,Mailed check,2,76.75,387.72,1,Customer dissatisfaction with support response time
+TELCO-5250,Male,1,Yes,Yes,8,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Credit card (automatic),0,91.5,713.59,1,Service reliability and speed issues
+TELCO-5251,Female,0,No,No,32,Yes,DSL,No,Yes,Month-to-month,Yes,Bank transfer (automatic),2,69.92,2151.42,0,Active Subscriber
+TELCO-5252,Female,0,Yes,Yes,55,Yes,No,No,No,One year,Yes,Credit card (automatic),0,32.44,1755.19,0,Active Subscriber
+TELCO-5253,Male,0,Yes,Yes,27,Yes,DSL,No,No,One year,No,Electronic check,0,64.07,1727.24,0,Active Subscriber
+TELCO-5254,Female,0,No,No,12,Yes,DSL,No,Yes,Month-to-month,No,Electronic check,0,61.66,725.28,1,Price increase after promotional period
+TELCO-5255,Female,0,No,No,10,Yes,Fiber optic,No,No,Month-to-month,Yes,Mailed check,1,74.01,774.08,1,Relocation to uncovered service area
+TELCO-5256,Male,0,Yes,Yes,32,Yes,No,No,No,Month-to-month,No,Electronic check,0,28.42,863.73,1,Switched to bundled streaming package
+TELCO-5257,Male,0,No,No,14,Yes,Fiber optic,Yes,No,One year,No,Electronic check,0,93.77,1255.36,1,Switched to bundled streaming package
+TELCO-5258,Female,0,Yes,No,58,Yes,Fiber optic,Yes,Yes,Two year,No,Credit card (automatic),0,93.15,5232.68,0,Active Subscriber
+TELCO-5259,Male,0,Yes,No,33,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Bank transfer (automatic),1,81.75,2758.32,1,Customer dissatisfaction with support response time
+TELCO-5260,Female,1,No,No,48,Yes,Fiber optic,Yes,No,Two year,Yes,Mailed check,1,85.58,4074.54,0,Active Subscriber
+TELCO-5261,Male,1,Yes,No,40,Yes,Fiber optic,No,No,Two year,No,Electronic check,3,80.61,3136.8,0,Active Subscriber
+TELCO-5262,Male,0,No,No,33,Yes,DSL,No,Yes,Month-to-month,Yes,Mailed check,1,71.77,2452.58,1,Competitor offered better price
+TELCO-5263,Female,0,No,No,26,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Bank transfer (automatic),2,106.9,2658.52,0,Active Subscriber
+TELCO-5264,Female,1,No,No,32,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Bank transfer (automatic),1,98.13,3287.06,0,Active Subscriber
+TELCO-5265,Female,0,Yes,Yes,46,Yes,No,No,No,Two year,Yes,Bank transfer (automatic),1,28.23,1358.84,0,Active Subscriber
+TELCO-5266,Female,0,Yes,No,47,Yes,Fiber optic,Yes,No,Two year,No,Mailed check,2,97.96,4662.32,0,Active Subscriber
+TELCO-5267,Male,0,No,No,43,Yes,Fiber optic,Yes,No,One year,No,Credit card (automatic),2,100.56,4188.95,0,Active Subscriber
+TELCO-5268,Female,0,Yes,Yes,17,Yes,Fiber optic,Yes,No,Month-to-month,No,Bank transfer (automatic),1,83.26,1472.91,1,Service reliability and speed issues
+TELCO-5269,Male,1,No,No,35,Yes,DSL,Yes,Yes,One year,Yes,Electronic check,2,67.8,2417.65,0,Active Subscriber
+TELCO-5270,Female,0,Yes,No,51,Yes,Fiber optic,Yes,Yes,One year,No,Credit card (automatic),0,104.05,5378.42,0,Active Subscriber
+TELCO-5271,Female,1,No,No,48,Yes,Fiber optic,Yes,No,Two year,Yes,Mailed check,0,87.96,3995.81,0,Active Subscriber
+TELCO-5272,Female,0,Yes,Yes,41,Yes,Fiber optic,Yes,Yes,Two year,Yes,Bank transfer (automatic),0,104.28,3993.13,0,Active Subscriber
+TELCO-5273,Female,0,Yes,Yes,18,Yes,DSL,No,No,Month-to-month,No,Credit card (automatic),2,48.89,833.09,0,Active Subscriber
+TELCO-5274,Female,0,No,No,49,Yes,DSL,No,Yes,Two year,No,Bank transfer (automatic),0,59.45,2758.45,0,Active Subscriber
+TELCO-5275,Female,1,No,No,13,Yes,DSL,Yes,Yes,One year,No,Bank transfer (automatic),0,65.34,824.41,0,Active Subscriber
+TELCO-5276,Female,1,Yes,Yes,15,Yes,Fiber optic,No,No,Month-to-month,Yes,Electronic check,4,86.97,1344.96,1,Customer dissatisfaction with support response time
+TELCO-5277,Male,0,Yes,Yes,21,Yes,Fiber optic,No,No,One year,No,Mailed check,0,70.22,1521.23,0,Active Subscriber
+TELCO-5278,Male,0,Yes,No,39,Yes,DSL,No,Yes,One year,Yes,Electronic check,2,71.1,2873.67,1,Switched to bundled streaming package
+TELCO-5279,Male,0,Yes,Yes,23,Yes,DSL,Yes,No,One year,Yes,Bank transfer (automatic),3,63.37,1387.45,0,Active Subscriber
+TELCO-5280,Male,0,Yes,Yes,18,Yes,DSL,No,Yes,Month-to-month,No,Mailed check,2,71.01,1252.76,0,Active Subscriber
+TELCO-5281,Male,0,Yes,Yes,26,Yes,Fiber optic,No,No,Month-to-month,No,Bank transfer (automatic),2,82.27,2215.05,1,Switched to bundled streaming package
+TELCO-5282,Female,0,No,No,3,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),0,23.39,66.44,0,Active Subscriber
+TELCO-5283,Female,0,No,No,10,Yes,DSL,No,Yes,Month-to-month,Yes,Bank transfer (automatic),0,71.78,702.36,1,Customer dissatisfaction with support response time
+TELCO-5284,Female,0,No,No,4,Yes,DSL,Yes,No,Month-to-month,Yes,Electronic check,0,67.81,258.19,1,Relocation to uncovered service area
+TELCO-5285,Female,1,No,No,31,Yes,Fiber optic,Yes,No,Month-to-month,No,Mailed check,0,101.7,2928.25,1,Competitor offered better price
+TELCO-5286,Male,0,No,No,22,Yes,DSL,Yes,No,Month-to-month,No,Bank transfer (automatic),1,64.39,1450.3,1,Competitor offered better price
+TELCO-5287,Male,1,No,No,25,Yes,DSL,Yes,Yes,Month-to-month,No,Bank transfer (automatic),0,80.26,1932.1,0,Active Subscriber
+TELCO-5288,Male,0,No,No,13,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Credit card (automatic),1,88.02,1114.84,1,Customer dissatisfaction with support response time
+TELCO-5289,Male,1,Yes,No,32,Yes,DSL,Yes,No,Month-to-month,No,Bank transfer (automatic),1,61.16,1829.62,0,Active Subscriber
+TELCO-5290,Female,1,No,No,54,Yes,DSL,No,No,One year,No,Mailed check,0,61.31,3339.39,1,Relocation to uncovered service area
+TELCO-5291,Female,0,No,No,10,Yes,DSL,No,No,Month-to-month,Yes,Mailed check,1,49.24,488.54,1,Competitor offered better price
+TELCO-5292,Female,0,No,No,5,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Credit card (automatic),0,89.06,454.54,1,Relocation to uncovered service area
+TELCO-5293,Female,1,No,No,49,Yes,Fiber optic,No,No,Two year,Yes,Bank transfer (automatic),0,78.19,3739.03,0,Active Subscriber
+TELCO-5294,Female,0,No,No,17,Yes,No,No,No,One year,Yes,Mailed check,1,23.11,402.1,0,Active Subscriber
+TELCO-5295,Male,1,Yes,No,6,Yes,Fiber optic,No,No,Month-to-month,No,Bank transfer (automatic),0,77.0,427.47,0,Active Subscriber
+TELCO-5296,Male,1,Yes,No,19,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Bank transfer (automatic),0,85.76,1629.45,1,Service reliability and speed issues
+TELCO-5297,Male,0,Yes,No,29,Yes,Fiber optic,Yes,No,Month-to-month,No,Bank transfer (automatic),1,90.51,2537.22,0,Active Subscriber
+TELCO-5298,Female,0,Yes,No,26,Yes,DSL,Yes,No,Two year,Yes,Mailed check,0,60.89,1472.84,0,Active Subscriber
+TELCO-5299,Male,0,No,No,53,Yes,DSL,No,No,One year,No,Mailed check,3,55.2,2945.71,0,Active Subscriber
+TELCO-5300,Female,0,Yes,Yes,25,Yes,No,No,No,Month-to-month,No,Credit card (automatic),1,30.84,728.02,1,Switched to bundled streaming package
+TELCO-5301,Female,0,No,No,22,Yes,DSL,Yes,Yes,One year,No,Electronic check,1,79.44,1824.68,0,Active Subscriber
+TELCO-5302,Male,0,Yes,Yes,23,Yes,No,No,No,One year,Yes,Bank transfer (automatic),2,31.98,716.65,0,Active Subscriber
+TELCO-5303,Female,0,Yes,No,57,Yes,DSL,No,No,Two year,Yes,Credit card (automatic),2,51.01,3050.54,0,Active Subscriber
+TELCO-5304,Male,0,No,No,5,Yes,DSL,Yes,No,Month-to-month,No,Credit card (automatic),3,55.15,270.7,1,Customer dissatisfaction with support response time
+TELCO-5305,Female,0,Yes,Yes,1,Yes,DSL,No,Yes,Month-to-month,Yes,Mailed check,4,56.92,56.29,1,Relocation to uncovered service area
+TELCO-5306,Male,0,Yes,No,27,Yes,No,No,No,Month-to-month,No,Electronic check,1,28.01,697.38,0,Active Subscriber
+TELCO-5307,Female,0,Yes,No,6,Yes,DSL,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0,70.19,405.45,1,Switched to bundled streaming package
+TELCO-5308,Female,0,No,No,30,Yes,Fiber optic,Yes,Yes,One year,Yes,Electronic check,5,107.09,3084.94,0,Active Subscriber
+TELCO-5309,Male,1,Yes,No,19,Yes,No,No,No,One year,No,Electronic check,1,32.62,631.83,0,Active Subscriber
+TELCO-5310,Female,0,No,No,24,Yes,Fiber optic,No,Yes,One year,No,Electronic check,3,80.61,1917.01,0,Active Subscriber
+TELCO-5311,Male,1,Yes,Yes,31,Yes,No,No,No,Month-to-month,No,Electronic check,0,27.88,906.5,1,Relocation to uncovered service area
+TELCO-5312,Male,0,No,No,32,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Credit card (automatic),0,106.93,3395.99,1,Competitor offered better price
+TELCO-5313,Male,0,Yes,No,1,Yes,DSL,No,No,Month-to-month,No,Electronic check,0,55.84,58.41,1,Price increase after promotional period
+TELCO-5314,Male,0,No,No,22,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0,29.98,617.06,0,Active Subscriber
+TELCO-5315,Female,0,Yes,Yes,17,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0,23.51,410.08,0,Active Subscriber
+TELCO-5316,Male,1,No,No,21,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Mailed check,4,101.79,2017.93,1,Competitor offered better price
+TELCO-5317,Female,0,No,No,29,Yes,Fiber optic,Yes,Yes,One year,Yes,Bank transfer (automatic),3,90.02,2507.45,0,Active Subscriber
+TELCO-5318,Male,1,Yes,Yes,61,Yes,Fiber optic,Yes,Yes,Two year,No,Electronic check,1,92.42,5189.55,0,Active Subscriber
+TELCO-5319,Male,0,Yes,Yes,9,Yes,DSL,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0,73.71,624.93,1,Service reliability and speed issues
+TELCO-5320,Male,0,Yes,Yes,27,Yes,DSL,No,No,Month-to-month,No,Bank transfer (automatic),0,46.39,1300.62,0,Active Subscriber
+TELCO-5321,Male,0,No,No,20,Yes,DSL,Yes,No,One year,Yes,Mailed check,0,72.88,1450.25,1,Customer dissatisfaction with support response time
+TELCO-5322,Male,0,No,No,1,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Mailed check,0,112.08,109.14,1,Switched to bundled streaming package
+TELCO-5323,Male,1,No,No,64,Yes,Fiber optic,No,No,Two year,No,Bank transfer (automatic),0,84.67,5088.16,0,Active Subscriber
+TELCO-5324,Male,0,No,No,4,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Mailed check,0,102.26,416.11,0,Active Subscriber
+TELCO-5325,Male,0,Yes,Yes,15,Yes,DSL,No,No,Month-to-month,No,Credit card (automatic),4,53.28,781.95,1,Relocation to uncovered service area
+TELCO-5326,Male,0,Yes,Yes,24,Yes,DSL,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),3,66.23,1570.23,1,Service reliability and speed issues
+TELCO-5327,Female,0,Yes,Yes,36,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),4,30.34,1126.38,1,Competitor offered better price
+TELCO-5328,Female,0,No,No,39,Yes,Fiber optic,No,Yes,One year,No,Mailed check,1,88.8,3299.22,0,Active Subscriber
+TELCO-5329,Female,0,No,No,33,Yes,No,No,No,One year,Yes,Bank transfer (automatic),1,25.57,815.45,0,Active Subscriber
+TELCO-5330,Male,0,Yes,No,5,Yes,Fiber optic,No,No,Month-to-month,No,Mailed check,0,73.76,344.22,1,Service reliability and speed issues
+TELCO-5331,Male,0,Yes,No,29,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),3,29.07,873.47,1,Competitor offered better price
+TELCO-5332,Female,0,Yes,Yes,25,Yes,DSL,No,Yes,One year,No,Electronic check,0,70.85,1812.78,0,Active Subscriber
+TELCO-5333,Female,0,No,No,64,Yes,DSL,Yes,Yes,Two year,No,Mailed check,0,76.47,4866.29,0,Active Subscriber
+TELCO-5334,Male,0,Yes,No,3,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Bank transfer (automatic),1,83.03,232.98,0,Active Subscriber
+TELCO-5335,Female,0,No,No,24,Yes,Fiber optic,No,No,Month-to-month,Yes,Credit card (automatic),0,85.11,1888.56,0,Active Subscriber
+TELCO-5336,Male,0,No,No,11,Yes,Fiber optic,No,No,Month-to-month,Yes,Credit card (automatic),0,93.0,1051.38,1,Relocation to uncovered service area
+TELCO-5337,Female,0,Yes,No,30,Yes,No,No,No,One year,No,Electronic check,3,24.16,702.2,1,Switched to bundled streaming package
+TELCO-5338,Male,1,Yes,No,26,Yes,No,No,No,Month-to-month,Yes,Electronic check,1,28.16,760.14,1,Customer dissatisfaction with support response time
+TELCO-5339,Male,0,Yes,No,47,Yes,No,No,No,One year,Yes,Bank transfer (automatic),0,24.66,1078.89,0,Active Subscriber
+TELCO-5340,Male,0,No,No,63,Yes,Fiber optic,Yes,Yes,Two year,No,Electronic check,2,106.75,6573.97,0,Active Subscriber
+TELCO-5341,Male,0,No,No,11,Yes,DSL,Yes,Yes,Month-to-month,Yes,Electronic check,1,72.62,813.58,1,Competitor offered better price
+TELCO-5342,Female,0,No,No,21,Yes,DSL,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),2,85.4,1738.3,1,Competitor offered better price
+TELCO-5343,Male,0,No,No,19,Yes,DSL,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),0,80.59,1508.52,1,Relocation to uncovered service area
+TELCO-5344,Female,0,Yes,Yes,34,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Credit card (automatic),0,85.88,2790.74,1,Relocation to uncovered service area
+TELCO-5345,Male,0,Yes,No,36,Yes,Fiber optic,No,Yes,Month-to-month,No,Electronic check,0,91.23,3326.51,1,Price increase after promotional period
+TELCO-5346,Female,0,Yes,No,45,Yes,No,No,No,One year,Yes,Electronic check,0,31.42,1334.75,1,Competitor offered better price
+TELCO-5347,Female,0,Yes,No,54,Yes,DSL,Yes,No,Two year,Yes,Mailed check,0,59.95,3188.09,0,Active Subscriber
+TELCO-5348,Male,0,Yes,Yes,20,Yes,DSL,Yes,No,Month-to-month,Yes,Electronic check,0,65.03,1265.48,1,Switched to bundled streaming package
+TELCO-5349,Male,0,No,No,25,Yes,Fiber optic,No,Yes,Month-to-month,No,Mailed check,0,102.17,2446.74,0,Active Subscriber
+TELCO-5350,Female,1,Yes,Yes,13,Yes,DSL,No,Yes,One year,No,Credit card (automatic),0,59.64,780.69,0,Active Subscriber
+TELCO-5351,Female,0,Yes,No,20,Yes,Fiber optic,No,Yes,One year,Yes,Bank transfer (automatic),0,91.77,1799.68,0,Active Subscriber
+TELCO-5352,Male,1,No,No,23,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),3,24.3,528.31,1,Switched to bundled streaming package
+TELCO-5353,Male,0,Yes,Yes,24,Yes,DSL,Yes,Yes,One year,Yes,Mailed check,1,73.67,1682.05,1,Switched to bundled streaming package
+TELCO-5354,Female,1,Yes,No,30,Yes,DSL,No,No,Two year,No,Electronic check,0,67.25,1977.2,0,Active Subscriber
+TELCO-5355,Male,1,Yes,No,22,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Bank transfer (automatic),2,103.57,2236.15,0,Active Subscriber
+TELCO-5356,Male,1,No,No,49,Yes,No,No,No,Two year,No,Mailed check,3,29.48,1398.05,0,Active Subscriber
+TELCO-5357,Male,0,No,No,9,Yes,Fiber optic,No,No,Month-to-month,No,Mailed check,0,80.85,741.0,1,Customer dissatisfaction with support response time
+TELCO-5358,Male,0,No,No,19,Yes,Fiber optic,Yes,No,Month-to-month,No,Electronic check,2,84.18,1498.51,1,Service reliability and speed issues
+TELCO-5359,Male,0,No,No,34,Yes,No,No,No,Month-to-month,Yes,Mailed check,0,30.18,1036.57,0,Active Subscriber
+TELCO-5360,Male,1,Yes,No,30,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Electronic check,4,106.94,2981.86,1,Service reliability and speed issues
+TELCO-5361,Female,0,No,No,36,Yes,Fiber optic,No,No,Month-to-month,Yes,Mailed check,5,83.11,3003.15,0,Active Subscriber
+TELCO-5362,Female,0,Yes,Yes,16,Yes,DSL,Yes,No,Month-to-month,Yes,Credit card (automatic),0,65.68,1031.96,1,Service reliability and speed issues
+TELCO-5363,Male,0,No,No,5,Yes,DSL,No,Yes,Month-to-month,No,Mailed check,4,72.01,368.85,1,Relocation to uncovered service area
+TELCO-5364,Female,0,Yes,Yes,54,Yes,DSL,No,No,One year,No,Electronic check,3,65.7,3400.69,0,Active Subscriber
+TELCO-5365,Female,0,Yes,Yes,24,Yes,Fiber optic,Yes,No,One year,Yes,Bank transfer (automatic),2,100.93,2262.66,0,Active Subscriber
+TELCO-5366,Female,0,Yes,Yes,37,Yes,No,No,No,One year,No,Credit card (automatic),4,27.2,1009.65,1,Relocation to uncovered service area
+TELCO-5367,Male,0,No,No,50,Yes,No,No,No,One year,No,Mailed check,3,24.51,1162.57,0,Active Subscriber
+TELCO-5368,Male,0,No,No,66,Yes,No,No,No,Two year,Yes,Credit card (automatic),0,32.56,2009.95,0,Active Subscriber
+TELCO-5369,Male,0,No,No,23,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Mailed check,0,96.52,2159.8,1,Relocation to uncovered service area
+TELCO-5370,Male,0,Yes,No,41,Yes,Fiber optic,No,Yes,Two year,Yes,Mailed check,1,93.01,3705.98,0,Active Subscriber
+TELCO-5371,Female,0,Yes,No,56,Yes,Fiber optic,Yes,Yes,Two year,No,Credit card (automatic),0,107.39,5872.23,0,Active Subscriber
+TELCO-5372,Female,0,Yes,Yes,25,Yes,DSL,Yes,Yes,Month-to-month,No,Electronic check,0,82.75,2045.2,1,Switched to bundled streaming package
+TELCO-5373,Female,0,No,No,49,Yes,No,No,No,One year,No,Mailed check,0,27.74,1418.29,0,Active Subscriber
+TELCO-5374,Female,0,No,No,26,Yes,DSL,No,Yes,Month-to-month,No,Mailed check,1,67.6,1791.32,1,Price increase after promotional period
+TELCO-5375,Male,0,No,No,15,Yes,No,No,No,One year,Yes,Bank transfer (automatic),0,32.15,505.23,0,Active Subscriber
+TELCO-5376,Female,0,Yes,Yes,11,Yes,Fiber optic,No,No,Month-to-month,No,Electronic check,1,77.52,806.96,0,Active Subscriber
+TELCO-5377,Female,0,Yes,No,33,Yes,Fiber optic,No,Yes,Month-to-month,No,Mailed check,1,87.21,3014.17,0,Active Subscriber
+TELCO-5378,Female,0,Yes,Yes,11,Yes,DSL,Yes,No,Month-to-month,No,Electronic check,0,62.44,709.09,1,Price increase after promotional period
+TELCO-5379,Male,1,Yes,Yes,35,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Credit card (automatic),2,88.42,2890.69,1,Price increase after promotional period
+TELCO-5380,Male,1,Yes,Yes,17,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Mailed check,1,101.74,1708.0,1,Relocation to uncovered service area
+TELCO-5381,Female,0,No,No,35,Yes,Fiber optic,Yes,Yes,Two year,No,Credit card (automatic),0,110.78,3841.07,0,Active Subscriber
+TELCO-5382,Female,1,Yes,No,15,Yes,DSL,Yes,No,One year,No,Mailed check,3,64.54,941.33,0,Active Subscriber
+TELCO-5383,Male,1,Yes,Yes,23,Yes,DSL,Yes,Yes,Month-to-month,Yes,Electronic check,5,63.73,1411.01,1,Switched to bundled streaming package
+TELCO-5384,Female,0,No,No,5,Yes,Fiber optic,No,No,Month-to-month,Yes,Electronic check,5,75.36,372.27,1,Price increase after promotional period
+TELCO-5385,Female,1,Yes,No,9,Yes,DSL,Yes,No,Month-to-month,Yes,Bank transfer (automatic),2,64.01,596.82,0,Active Subscriber
+TELCO-5386,Male,0,No,No,62,Yes,DSL,Yes,No,Two year,Yes,Electronic check,0,63.65,3803.85,0,Active Subscriber
+TELCO-5387,Female,1,Yes,No,13,Yes,Fiber optic,No,No,Month-to-month,Yes,Electronic check,4,74.88,963.81,1,Relocation to uncovered service area
+TELCO-5388,Male,1,Yes,No,51,Yes,DSL,No,No,One year,No,Credit card (automatic),2,57.12,2897.67,0,Active Subscriber
+TELCO-5389,Male,0,Yes,No,55,Yes,DSL,No,Yes,One year,Yes,Bank transfer (automatic),0,67.06,3693.01,0,Active Subscriber
+TELCO-5390,Male,0,No,No,13,Yes,Fiber optic,No,No,One year,Yes,Bank transfer (automatic),3,87.81,1150.08,1,Switched to bundled streaming package
+TELCO-5391,Female,1,No,No,26,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),0,26.32,647.02,1,Customer dissatisfaction with support response time
+TELCO-5392,Female,0,Yes,No,7,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0,32.16,217.07,0,Active Subscriber
+TELCO-5393,Female,0,No,No,33,Yes,No,No,No,One year,Yes,Credit card (automatic),4,23.96,767.42,1,Switched to bundled streaming package
+TELCO-5394,Male,0,No,No,7,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),0,32.34,224.75,0,Active Subscriber
+TELCO-5395,Female,0,No,No,42,Yes,DSL,No,No,Two year,Yes,Electronic check,0,50.74,2189.11,0,Active Subscriber
+TELCO-5396,Male,1,Yes,No,22,Yes,DSL,Yes,Yes,Month-to-month,No,Electronic check,0,73.0,1599.03,1,Relocation to uncovered service area
+TELCO-5397,Female,0,No,No,24,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Credit card (automatic),1,99.57,2390.92,0,Active Subscriber
+TELCO-5398,Male,0,No,No,7,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Electronic check,2,82.99,555.86,1,Relocation to uncovered service area
+TELCO-5399,Male,0,No,No,20,Yes,DSL,Yes,No,One year,No,Credit card (automatic),0,65.51,1245.41,1,Service reliability and speed issues
+TELCO-5400,Female,0,No,No,34,Yes,DSL,No,No,Two year,No,Bank transfer (automatic),5,51.31,1636.32,0,Active Subscriber
+TELCO-5401,Female,0,No,No,20,Yes,Fiber optic,No,No,One year,Yes,Electronic check,2,76.23,1462.99,0,Active Subscriber
+TELCO-5402,Female,0,Yes,No,15,Yes,No,No,No,Month-to-month,Yes,Electronic check,4,26.1,390.02,1,Competitor offered better price
+TELCO-5403,Female,1,Yes,Yes,19,Yes,DSL,Yes,No,Month-to-month,No,Credit card (automatic),1,65.33,1190.9,0,Active Subscriber
+TELCO-5404,Female,0,Yes,Yes,24,Yes,DSL,No,No,Two year,Yes,Bank transfer (automatic),0,54.44,1224.07,0,Active Subscriber
+TELCO-5405,Male,0,Yes,No,33,Yes,Fiber optic,Yes,Yes,Two year,Yes,Bank transfer (automatic),1,89.88,3067.56,1,Switched to bundled streaming package
+TELCO-5406,Male,1,Yes,Yes,31,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Credit card (automatic),0,91.91,2770.92,1,Service reliability and speed issues
+TELCO-5407,Female,0,No,No,48,Yes,Fiber optic,Yes,No,One year,No,Mailed check,1,91.72,4589.57,0,Active Subscriber
+TELCO-5408,Female,0,Yes,No,12,Yes,DSL,Yes,No,Month-to-month,Yes,Mailed check,0,59.82,666.32,0,Active Subscriber
+TELCO-5409,Male,1,Yes,No,30,Yes,Fiber optic,No,Yes,Two year,No,Electronic check,1,90.15,2745.78,0,Active Subscriber
+TELCO-5410,Male,0,Yes,Yes,35,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),0,30.68,1016.26,0,Active Subscriber
+TELCO-5411,Female,0,No,No,2,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),1,25.19,50.09,0,Active Subscriber
+TELCO-5412,Female,0,Yes,Yes,29,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),0,31.47,839.94,1,Customer dissatisfaction with support response time
+TELCO-5413,Female,0,No,No,47,Yes,Fiber optic,Yes,No,One year,Yes,Mailed check,0,95.53,4682.77,0,Active Subscriber
+TELCO-5414,Male,0,No,No,3,Yes,DSL,Yes,Yes,Month-to-month,No,Credit card (automatic),1,73.36,210.06,1,Price increase after promotional period
+TELCO-5415,Female,0,Yes,No,34,Yes,No,No,No,One year,No,Electronic check,2,29.34,941.7,0,Active Subscriber
+TELCO-5416,Male,0,No,No,28,Yes,Fiber optic,No,Yes,Two year,Yes,Mailed check,3,85.96,2322.87,0,Active Subscriber
+TELCO-5417,Male,0,Yes,No,23,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0,32.36,748.98,1,Switched to bundled streaming package
+TELCO-5418,Male,0,Yes,No,55,Yes,No,No,No,One year,Yes,Electronic check,0,22.91,1256.46,1,Customer dissatisfaction with support response time
+TELCO-5419,Male,0,Yes,Yes,50,Yes,DSL,Yes,No,One year,Yes,Electronic check,0,57.49,2932.79,0,Active Subscriber
+TELCO-5420,Male,1,Yes,Yes,51,Yes,Fiber optic,Yes,No,One year,Yes,Electronic check,0,91.64,4753.47,1,Relocation to uncovered service area
+TELCO-5421,Female,0,Yes,No,34,Yes,No,No,No,Month-to-month,No,Mailed check,0,30.92,981.34,1,Price increase after promotional period
+TELCO-5422,Female,0,Yes,No,48,Yes,DSL,Yes,Yes,Two year,Yes,Bank transfer (automatic),5,71.46,3213.11,0,Active Subscriber
+TELCO-5423,Female,0,Yes,No,49,Yes,Fiber optic,Yes,No,One year,Yes,Electronic check,0,102.19,4929.96,0,Active Subscriber
+TELCO-5424,Male,0,No,No,32,Yes,DSL,No,No,Two year,Yes,Bank transfer (automatic),4,58.48,1773.23,0,Active Subscriber
+TELCO-5425,Male,0,No,No,55,Yes,Fiber optic,No,Yes,Two year,Yes,Electronic check,0,86.78,4563.52,0,Active Subscriber
+TELCO-5426,Male,0,Yes,Yes,7,Yes,No,No,No,Month-to-month,No,Mailed check,2,27.84,187.96,0,Active Subscriber
+TELCO-5427,Male,0,No,No,29,Yes,Fiber optic,No,No,Month-to-month,No,Electronic check,0,77.86,2185.49,1,Service reliability and speed issues
+TELCO-5428,Female,0,Yes,No,17,Yes,No,No,No,Month-to-month,Yes,Electronic check,0,23.51,391.69,1,Competitor offered better price
+TELCO-5429,Male,0,Yes,No,17,Yes,Fiber optic,No,No,One year,No,Electronic check,1,74.63,1247.86,0,Active Subscriber
+TELCO-5430,Female,0,Yes,No,56,Yes,Fiber optic,No,Yes,Two year,No,Electronic check,0,84.78,4394.07,0,Active Subscriber
+TELCO-5431,Male,0,Yes,No,32,Yes,No,No,No,Month-to-month,No,Mailed check,0,32.49,997.09,1,Competitor offered better price
+TELCO-5432,Female,0,No,No,36,Yes,DSL,Yes,No,Month-to-month,Yes,Mailed check,1,61.19,2028.18,1,Relocation to uncovered service area
+TELCO-5433,Female,0,No,No,31,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),0,101.2,2893.96,1,Service reliability and speed issues
+TELCO-5434,Female,0,Yes,No,14,Yes,Fiber optic,Yes,No,One year,No,Mailed check,1,96.82,1250.5,0,Active Subscriber
+TELCO-5435,Male,0,No,No,14,Yes,Fiber optic,No,Yes,One year,Yes,Bank transfer (automatic),1,98.98,1320.89,0,Active Subscriber
+TELCO-5436,Female,1,No,No,49,Yes,DSL,Yes,Yes,One year,Yes,Credit card (automatic),0,69.58,3331.25,0,Active Subscriber
+TELCO-5437,Female,0,No,No,41,Yes,Fiber optic,No,Yes,Two year,Yes,Bank transfer (automatic),0,91.98,3591.19,0,Active Subscriber
+TELCO-5438,Female,0,Yes,No,9,Yes,Fiber optic,Yes,No,Month-to-month,No,Electronic check,1,98.95,822.35,1,Price increase after promotional period
+TELCO-5439,Male,0,No,No,35,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Mailed check,0,91.35,3333.72,0,Active Subscriber
+TELCO-5440,Female,1,Yes,Yes,5,Yes,Fiber optic,Yes,No,Month-to-month,No,Bank transfer (automatic),0,100.69,526.69,1,Competitor offered better price
+TELCO-5441,Female,1,No,No,1,Yes,DSL,No,No,Month-to-month,Yes,Electronic check,0,50.31,49.81,1,Relocation to uncovered service area
+TELCO-5442,Female,0,Yes,No,6,Yes,Fiber optic,No,No,Month-to-month,No,Bank transfer (automatic),2,79.28,495.39,1,Relocation to uncovered service area
+TELCO-5443,Male,0,No,No,42,Yes,No,No,No,One year,Yes,Bank transfer (automatic),0,32.23,1362.32,0,Active Subscriber
+TELCO-5444,Male,0,Yes,No,36,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Credit card (automatic),0,91.24,3260.22,0,Active Subscriber
+TELCO-5445,Female,0,No,No,25,Yes,DSL,No,No,Month-to-month,Yes,Bank transfer (automatic),4,64.46,1562.97,1,Service reliability and speed issues
+TELCO-5446,Female,0,Yes,Yes,23,Yes,DSL,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0,72.33,1655.94,0,Active Subscriber
+TELCO-5447,Male,0,Yes,Yes,17,Yes,DSL,No,Yes,Month-to-month,Yes,Credit card (automatic),1,56.93,940.11,1,Competitor offered better price
+TELCO-5448,Male,0,Yes,Yes,62,Yes,DSL,No,Yes,Two year,Yes,Mailed check,2,70.62,4392.51,0,Active Subscriber
+TELCO-5449,Male,0,No,No,56,Yes,Fiber optic,No,Yes,Two year,No,Electronic check,3,100.15,5228.55,0,Active Subscriber
+TELCO-5450,Female,0,No,No,19,Yes,Fiber optic,Yes,No,Month-to-month,No,Credit card (automatic),2,86.55,1571.38,1,Switched to bundled streaming package
+TELCO-5451,Female,1,Yes,No,30,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Electronic check,0,105.29,3248.19,1,Relocation to uncovered service area
+TELCO-5452,Male,0,No,No,28,Yes,No,No,No,One year,Yes,Credit card (automatic),1,28.89,801.61,0,Active Subscriber
+TELCO-5453,Female,1,No,No,32,Yes,DSL,No,No,One year,Yes,Electronic check,0,61.47,2015.16,1,Price increase after promotional period
+TELCO-5454,Male,0,No,No,54,Yes,Fiber optic,No,Yes,Two year,Yes,Mailed check,2,96.82,4863.44,0,Active Subscriber
+TELCO-5455,Female,0,No,No,7,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),0,29.12,201.17,1,Relocation to uncovered service area
+TELCO-5456,Male,0,No,No,48,Yes,Fiber optic,Yes,No,Two year,No,Credit card (automatic),0,94.94,4784.17,0,Active Subscriber
+TELCO-5457,Female,0,No,No,21,Yes,No,No,No,Month-to-month,No,Credit card (automatic),2,32.25,660.36,1,Competitor offered better price
+TELCO-5458,Female,0,No,No,44,Yes,No,No,No,One year,Yes,Credit card (automatic),0,24.12,1087.48,0,Active Subscriber
+TELCO-5459,Female,0,No,No,42,Yes,DSL,No,Yes,Two year,No,Bank transfer (automatic),1,68.52,2667.89,0,Active Subscriber
+TELCO-5460,Male,0,No,No,29,Yes,Fiber optic,Yes,No,Month-to-month,No,Credit card (automatic),0,89.09,2520.73,1,Service reliability and speed issues
+TELCO-5461,Male,0,Yes,Yes,33,Yes,No,No,No,Month-to-month,No,Credit card (automatic),5,23.02,779.4,1,Price increase after promotional period
+TELCO-5462,Male,0,No,No,23,Yes,DSL,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),0,70.28,1580.44,0,Active Subscriber
+TELCO-5463,Female,0,Yes,No,17,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Bank transfer (automatic),0,89.46,1444.39,1,Price increase after promotional period
+TELCO-5464,Female,1,Yes,No,17,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0,23.86,423.16,0,Active Subscriber
+TELCO-5465,Male,0,No,No,28,Yes,DSL,Yes,Yes,Month-to-month,No,Bank transfer (automatic),1,81.68,2179.73,1,Customer dissatisfaction with support response time
+TELCO-5466,Male,1,Yes,Yes,63,Yes,Fiber optic,No,No,Two year,No,Electronic check,1,89.73,5763.2,0,Active Subscriber
+TELCO-5467,Female,0,Yes,No,47,Yes,DSL,Yes,Yes,One year,Yes,Electronic check,3,64.6,3006.01,1,Competitor offered better price
+TELCO-5468,Male,0,Yes,No,15,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Bank transfer (automatic),1,76.2,1099.85,1,Customer dissatisfaction with support response time
+TELCO-5469,Female,0,Yes,No,34,Yes,Fiber optic,Yes,No,One year,No,Bank transfer (automatic),0,93.75,3342.27,0,Active Subscriber
+TELCO-5470,Female,0,No,No,14,Yes,DSL,Yes,No,Month-to-month,Yes,Electronic check,1,67.52,925.0,0,Active Subscriber
+TELCO-5471,Female,0,Yes,Yes,34,Yes,DSL,No,No,Month-to-month,Yes,Electronic check,0,62.79,2106.86,0,Active Subscriber
+TELCO-5472,Female,0,Yes,No,17,Yes,No,No,No,Month-to-month,Yes,Electronic check,3,29.49,485.78,0,Active Subscriber
+TELCO-5473,Female,0,Yes,Yes,61,Yes,No,No,No,Two year,Yes,Mailed check,1,29.14,1739.21,0,Active Subscriber
+TELCO-5474,Male,1,No,No,14,Yes,No,No,No,Month-to-month,Yes,Mailed check,0,23.73,348.11,1,Competitor offered better price
+TELCO-5475,Male,0,Yes,No,2,Yes,DSL,No,No,Month-to-month,No,Credit card (automatic),0,49.05,96.73,1,Service reliability and speed issues
+TELCO-5476,Male,0,Yes,Yes,29,Yes,Fiber optic,Yes,No,Two year,Yes,Credit card (automatic),0,93.11,2691.15,0,Active Subscriber
+TELCO-5477,Male,0,No,No,7,Yes,No,No,No,Month-to-month,Yes,Electronic check,1,25.48,164.9,0,Active Subscriber
+TELCO-5478,Male,0,No,No,52,Yes,No,No,No,Two year,No,Electronic check,3,28.47,1522.53,1,Relocation to uncovered service area
+TELCO-5479,Female,0,Yes,Yes,38,Yes,Fiber optic,Yes,Yes,Two year,Yes,Credit card (automatic),1,100.16,3989.84,0,Active Subscriber
+TELCO-5480,Female,0,No,No,13,Yes,DSL,No,Yes,Month-to-month,Yes,Credit card (automatic),1,62.13,773.97,0,Active Subscriber
+TELCO-5481,Female,0,No,No,55,Yes,DSL,No,Yes,One year,No,Electronic check,0,65.92,3646.82,0,Active Subscriber
+TELCO-5482,Female,0,No,No,29,Yes,DSL,Yes,Yes,Two year,No,Credit card (automatic),2,74.84,2034.17,0,Active Subscriber
+TELCO-5483,Male,0,No,No,53,Yes,DSL,Yes,No,Two year,No,Electronic check,1,60.44,3097.47,0,Active Subscriber
+TELCO-5484,Male,0,Yes,No,26,Yes,Fiber optic,No,Yes,Month-to-month,No,Bank transfer (automatic),0,79.5,2154.22,1,Relocation to uncovered service area
+TELCO-5485,Female,0,Yes,Yes,40,Yes,No,No,No,Two year,No,Bank transfer (automatic),3,32.05,1299.6,0,Active Subscriber
+TELCO-5486,Female,0,No,No,33,Yes,No,No,No,Month-to-month,Yes,Mailed check,2,25.51,788.32,1,Competitor offered better price
+TELCO-5487,Male,1,Yes,Yes,27,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),0,31.88,822.68,0,Active Subscriber
+TELCO-5488,Female,1,No,No,29,Yes,DSL,No,No,Two year,Yes,Mailed check,1,55.85,1592.3,0,Active Subscriber
+TELCO-5489,Male,0,No,No,24,Yes,No,No,No,Month-to-month,Yes,Electronic check,2,27.96,617.9,0,Active Subscriber
+TELCO-5490,Male,0,No,No,51,Yes,DSL,Yes,Yes,Two year,Yes,Bank transfer (automatic),0,76.12,3612.36,0,Active Subscriber
+TELCO-5491,Female,0,Yes,Yes,31,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Bank transfer (automatic),1,83.65,2472.14,1,Service reliability and speed issues
+TELCO-5492,Male,0,Yes,No,17,Yes,Fiber optic,No,Yes,Month-to-month,No,Electronic check,0,91.9,1493.99,0,Active Subscriber
+TELCO-5493,Male,1,Yes,No,26,Yes,Fiber optic,Yes,Yes,Two year,No,Mailed check,1,105.87,2587.42,1,Service reliability and speed issues
+TELCO-5494,Male,1,No,No,10,Yes,DSL,No,Yes,Month-to-month,Yes,Credit card (automatic),3,74.8,729.07,0,Active Subscriber
+TELCO-5495,Female,0,No,No,33,Yes,DSL,No,No,Month-to-month,No,Mailed check,0,55.53,1732.4,1,Switched to bundled streaming package
+TELCO-5496,Female,0,Yes,No,29,Yes,Fiber optic,Yes,No,Month-to-month,No,Electronic check,0,95.65,2775.47,1,Customer dissatisfaction with support response time
+TELCO-5497,Male,0,Yes,No,20,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Mailed check,0,105.74,2146.48,1,Competitor offered better price
+TELCO-5498,Female,0,No,No,22,Yes,No,No,No,Month-to-month,No,Credit card (automatic),0,22.21,500.69,0,Active Subscriber
+TELCO-5499,Male,0,No,No,12,Yes,Fiber optic,Yes,No,One year,Yes,Mailed check,0,87.18,1083.91,0,Active Subscriber
+TELCO-5500,Female,1,Yes,Yes,45,Yes,DSL,Yes,Yes,Two year,Yes,Bank transfer (automatic),4,74.01,3156.93,0,Active Subscriber
+TELCO-5501,Female,0,No,No,13,Yes,Fiber optic,Yes,No,Month-to-month,No,Electronic check,4,102.53,1372.59,1,Price increase after promotional period
+TELCO-5502,Female,0,Yes,No,70,Yes,Fiber optic,Yes,No,Two year,Yes,Electronic check,0,105.32,6794.31,0,Active Subscriber
+TELCO-5503,Male,1,No,No,20,Yes,DSL,Yes,No,Month-to-month,Yes,Mailed check,5,65.38,1309.55,1,Price increase after promotional period
+TELCO-5504,Male,1,No,No,25,Yes,DSL,Yes,No,Month-to-month,Yes,Credit card (automatic),4,64.14,1489.95,1,Price increase after promotional period
+TELCO-5505,Male,0,No,No,47,Yes,No,No,No,One year,No,Credit card (automatic),1,32.0,1395.17,1,Switched to bundled streaming package
+TELCO-5506,Male,1,No,No,30,Yes,Fiber optic,Yes,Yes,One year,No,Mailed check,0,109.07,3140.82,0,Active Subscriber
+TELCO-5507,Female,0,Yes,Yes,25,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0,97.38,2338.83,1,Price increase after promotional period
+TELCO-5508,Female,0,Yes,No,18,Yes,DSL,Yes,Yes,One year,Yes,Electronic check,1,75.07,1255.41,0,Active Subscriber
+TELCO-5509,Male,0,Yes,No,31,Yes,DSL,Yes,No,Two year,No,Credit card (automatic),0,56.36,1627.46,0,Active Subscriber
+TELCO-5510,Male,0,No,No,72,Yes,No,No,No,Two year,No,Bank transfer (automatic),3,27.02,2011.47,0,Active Subscriber
+TELCO-5511,Male,0,No,No,12,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Credit card (automatic),0,89.0,1093.26,0,Active Subscriber
+TELCO-5512,Male,0,No,No,46,Yes,DSL,Yes,No,Two year,Yes,Electronic check,0,52.89,2504.57,0,Active Subscriber
+TELCO-5513,Male,0,Yes,Yes,60,Yes,DSL,Yes,No,Two year,Yes,Electronic check,1,59.42,3323.77,0,Active Subscriber
+TELCO-5514,Female,0,Yes,No,30,Yes,DSL,Yes,No,Two year,Yes,Electronic check,2,64.7,1882.04,0,Active Subscriber
+TELCO-5515,Male,0,Yes,Yes,41,Yes,DSL,Yes,No,Two year,No,Electronic check,1,61.16,2415.08,0,Active Subscriber
+TELCO-5516,Male,0,No,No,15,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Electronic check,0,92.9,1306.52,1,Relocation to uncovered service area
+TELCO-5517,Female,0,Yes,No,67,Yes,DSL,Yes,No,Two year,Yes,Mailed check,0,58.7,3682.96,0,Active Subscriber
+TELCO-5518,Male,0,Yes,Yes,13,Yes,DSL,Yes,Yes,Month-to-month,Yes,Electronic check,0,70.15,843.91,0,Active Subscriber
+TELCO-5519,Female,0,Yes,Yes,46,Yes,Fiber optic,No,Yes,Two year,Yes,Mailed check,0,96.33,4305.89,0,Active Subscriber
+TELCO-5520,Male,0,Yes,Yes,62,Yes,DSL,No,No,Two year,Yes,Mailed check,0,57.29,3286.7,0,Active Subscriber
+TELCO-5521,Female,0,No,No,27,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),0,98.57,2616.92,0,Active Subscriber
+TELCO-5522,Female,1,No,No,10,Yes,DSL,Yes,No,Month-to-month,No,Bank transfer (automatic),0,71.07,661.62,1,Service reliability and speed issues
+TELCO-5523,Female,0,Yes,Yes,13,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),0,29.53,388.98,0,Active Subscriber
+TELCO-5524,Female,0,Yes,Yes,10,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Mailed check,3,105.89,1009.39,1,Switched to bundled streaming package
+TELCO-5525,Female,0,Yes,Yes,7,Yes,DSL,No,Yes,Month-to-month,No,Mailed check,1,75.73,538.69,0,Active Subscriber
+TELCO-5526,Male,0,No,No,19,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),1,99.7,1976.02,1,Customer dissatisfaction with support response time
+TELCO-5527,Male,0,Yes,No,24,Yes,DSL,No,No,Month-to-month,No,Bank transfer (automatic),3,47.63,1197.32,0,Active Subscriber
+TELCO-5528,Female,1,No,No,24,Yes,DSL,No,No,Month-to-month,No,Bank transfer (automatic),1,58.44,1466.68,0,Active Subscriber
+TELCO-5529,Female,0,No,No,45,Yes,Fiber optic,Yes,No,Two year,Yes,Electronic check,1,80.04,3447.36,0,Active Subscriber
+TELCO-5530,Female,0,No,No,29,Yes,Fiber optic,No,No,Month-to-month,Yes,Electronic check,1,74.22,2031.04,0,Active Subscriber
+TELCO-5531,Male,0,Yes,Yes,17,Yes,No,No,No,Month-to-month,Yes,Mailed check,2,25.15,429.51,1,Relocation to uncovered service area
+TELCO-5532,Male,0,No,No,53,Yes,Fiber optic,No,No,Two year,Yes,Electronic check,1,85.61,4307.65,0,Active Subscriber
+TELCO-5533,Male,0,No,No,59,Yes,Fiber optic,No,No,Two year,Yes,Mailed check,0,70.42,3974.09,0,Active Subscriber
+TELCO-5534,Female,0,Yes,Yes,36,Yes,DSL,Yes,No,Two year,Yes,Electronic check,1,55.13,1991.76,0,Active Subscriber
+TELCO-5535,Female,1,Yes,Yes,13,Yes,DSL,No,No,Month-to-month,Yes,Bank transfer (automatic),3,55.13,702.96,1,Competitor offered better price
+TELCO-5536,Female,0,No,No,66,Yes,Fiber optic,No,No,Two year,Yes,Electronic check,3,92.69,6410.76,0,Active Subscriber
+TELCO-5537,Male,0,Yes,Yes,20,Yes,DSL,No,Yes,Month-to-month,Yes,Mailed check,2,66.47,1262.23,0,Active Subscriber
+TELCO-5538,Male,0,Yes,No,26,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Mailed check,1,93.15,2283.56,0,Active Subscriber
+TELCO-5539,Female,0,No,No,10,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Mailed check,1,98.94,992.56,1,Price increase after promotional period
+TELCO-5540,Male,0,No,No,38,Yes,DSL,No,Yes,Two year,Yes,Bank transfer (automatic),4,66.91,2479.07,0,Active Subscriber
+TELCO-5541,Male,1,No,No,13,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Electronic check,1,106.27,1339.44,1,Competitor offered better price
+TELCO-5542,Female,0,Yes,No,52,Yes,DSL,No,Yes,One year,No,Bank transfer (automatic),2,73.76,3745.45,0,Active Subscriber
+TELCO-5543,Female,0,No,No,11,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Electronic check,2,105.96,1211.66,1,Customer dissatisfaction with support response time
+TELCO-5544,Female,0,Yes,No,36,Yes,DSL,No,Yes,One year,No,Mailed check,0,69.36,2356.62,1,Relocation to uncovered service area
+TELCO-5545,Male,0,No,No,67,Yes,Fiber optic,Yes,Yes,Two year,No,Electronic check,2,105.09,7203.59,1,Switched to bundled streaming package
+TELCO-5546,Female,0,No,No,36,Yes,DSL,Yes,Yes,One year,Yes,Bank transfer (automatic),1,67.28,2283.26,0,Active Subscriber
+TELCO-5547,Female,0,No,No,5,Yes,DSL,No,Yes,Month-to-month,Yes,Bank transfer (automatic),0,67.36,344.85,0,Active Subscriber
+TELCO-5548,Female,0,No,No,14,Yes,Fiber optic,No,Yes,Month-to-month,No,Credit card (automatic),0,94.91,1324.52,1,Relocation to uncovered service area
+TELCO-5549,Male,0,Yes,Yes,6,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Mailed check,1,76.79,432.85,0,Active Subscriber
+TELCO-5550,Female,1,No,No,11,Yes,DSL,No,Yes,Month-to-month,No,Mailed check,0,61.18,656.44,1,Customer dissatisfaction with support response time
+TELCO-5551,Male,0,No,No,52,Yes,Fiber optic,No,No,One year,No,Mailed check,0,90.06,4878.29,1,Relocation to uncovered service area
+TELCO-5552,Female,0,Yes,No,14,Yes,DSL,Yes,Yes,One year,Yes,Bank transfer (automatic),2,70.93,934.04,0,Active Subscriber
+TELCO-5553,Female,0,No,No,27,Yes,DSL,No,No,Two year,No,Credit card (automatic),0,48.92,1215.38,0,Active Subscriber
+TELCO-5554,Female,0,No,No,36,Yes,DSL,No,Yes,One year,No,Electronic check,0,74.83,2790.24,0,Active Subscriber
+TELCO-5555,Male,0,No,No,12,Yes,Fiber optic,No,No,Month-to-month,No,Electronic check,0,77.2,968.25,0,Active Subscriber
+TELCO-5556,Female,0,No,No,23,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Credit card (automatic),0,90.87,1952.73,1,Service reliability and speed issues
+TELCO-5557,Male,1,No,No,47,Yes,No,No,No,One year,No,Credit card (automatic),0,28.83,1394.66,0,Active Subscriber
+TELCO-5558,Female,0,No,No,30,Yes,No,No,No,One year,No,Bank transfer (automatic),2,32.36,987.2,0,Active Subscriber
+TELCO-5559,Female,0,No,No,40,Yes,DSL,No,Yes,One year,No,Credit card (automatic),0,58.7,2247.18,0,Active Subscriber
+TELCO-5560,Male,0,Yes,No,11,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Credit card (automatic),0,92.56,950.42,0,Active Subscriber
+TELCO-5561,Male,1,Yes,No,19,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),0,25.83,491.72,0,Active Subscriber
+TELCO-5562,Male,1,Yes,Yes,10,Yes,Fiber optic,No,No,Month-to-month,Yes,Electronic check,2,88.55,897.95,1,Switched to bundled streaming package
+TELCO-5563,Female,0,Yes,Yes,61,Yes,Fiber optic,No,No,Two year,No,Electronic check,1,76.96,4524.9,0,Active Subscriber
+TELCO-5564,Male,1,Yes,No,15,Yes,Fiber optic,No,No,Month-to-month,Yes,Bank transfer (automatic),0,77.33,1079.92,1,Customer dissatisfaction with support response time
+TELCO-5565,Male,0,Yes,No,28,Yes,Fiber optic,No,No,One year,Yes,Electronic check,0,75.19,2048.17,0,Active Subscriber
+TELCO-5566,Female,0,No,No,29,Yes,DSL,Yes,No,One year,Yes,Mailed check,3,56.68,1593.73,0,Active Subscriber
+TELCO-5567,Female,0,No,No,4,Yes,Fiber optic,Yes,No,Month-to-month,No,Electronic check,0,104.13,391.6,1,Price increase after promotional period
+TELCO-5568,Female,0,No,No,34,Yes,DSL,Yes,Yes,Month-to-month,Yes,Electronic check,0,73.16,2609.88,1,Relocation to uncovered service area
+TELCO-5569,Male,0,Yes,Yes,28,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Electronic check,0,101.74,2910.91,1,Relocation to uncovered service area
+TELCO-5570,Female,0,No,No,12,Yes,DSL,Yes,No,Month-to-month,No,Credit card (automatic),0,53.22,663.12,1,Service reliability and speed issues
+TELCO-5571,Male,0,No,No,2,Yes,No,No,No,Month-to-month,Yes,Mailed check,1,30.8,57.4,1,Competitor offered better price
+TELCO-5572,Female,0,No,No,54,Yes,Fiber optic,Yes,No,Two year,No,Bank transfer (automatic),2,101.81,5516.9,0,Active Subscriber
+TELCO-5573,Male,1,Yes,Yes,42,Yes,Fiber optic,Yes,No,One year,No,Electronic check,0,101.12,4254.51,1,Competitor offered better price
+TELCO-5574,Female,0,No,No,21,Yes,No,No,No,One year,No,Mailed check,1,29.97,656.51,0,Active Subscriber
+TELCO-5575,Male,0,Yes,Yes,36,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Electronic check,1,103.28,3621.67,1,Relocation to uncovered service area
+TELCO-5576,Female,0,Yes,No,21,Yes,DSL,No,No,Month-to-month,Yes,Credit card (automatic),0,53.25,1135.67,1,Relocation to uncovered service area
+TELCO-5577,Female,0,Yes,Yes,25,Yes,Fiber optic,Yes,No,Month-to-month,No,Bank transfer (automatic),1,83.8,1975.37,0,Active Subscriber
+TELCO-5578,Male,1,Yes,No,25,Yes,Fiber optic,No,No,Two year,No,Bank transfer (automatic),0,82.45,1978.01,0,Active Subscriber
+TELCO-5579,Male,0,No,No,32,Yes,Fiber optic,Yes,No,One year,No,Credit card (automatic),0,91.88,2777.37,0,Active Subscriber
+TELCO-5580,Male,0,Yes,Yes,55,Yes,DSL,Yes,No,Two year,Yes,Mailed check,3,61.19,3303.67,0,Active Subscriber
+TELCO-5581,Male,0,No,No,11,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Electronic check,0,108.39,1120.3,0,Active Subscriber
+TELCO-5582,Female,0,Yes,No,10,Yes,DSL,No,Yes,Month-to-month,Yes,Bank transfer (automatic),1,63.41,636.6,0,Active Subscriber
+TELCO-5583,Male,0,Yes,Yes,7,Yes,DSL,Yes,No,Month-to-month,Yes,Electronic check,0,61.83,410.73,1,Customer dissatisfaction with support response time
+TELCO-5584,Male,0,Yes,Yes,5,Yes,No,No,No,Month-to-month,No,Electronic check,2,23.9,115.72,1,Relocation to uncovered service area
+TELCO-5585,Female,0,No,No,35,Yes,Fiber optic,No,Yes,Month-to-month,No,Bank transfer (automatic),2,95.16,3089.48,0,Active Subscriber
+TELCO-5586,Male,0,No,No,32,Yes,No,No,No,Month-to-month,No,Mailed check,2,32.07,1003.14,0,Active Subscriber
+TELCO-5587,Female,0,No,No,37,Yes,Fiber optic,No,Yes,Two year,Yes,Electronic check,1,91.18,3233.67,0,Active Subscriber
+TELCO-5588,Female,0,Yes,Yes,35,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Bank transfer (automatic),2,83.01,2754.87,0,Active Subscriber
+TELCO-5589,Male,0,No,No,33,Yes,DSL,Yes,No,Month-to-month,Yes,Electronic check,0,65.99,2201.15,0,Active Subscriber
+TELCO-5590,Female,0,Yes,No,26,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Electronic check,0,83.06,2039.73,1,Customer dissatisfaction with support response time
+TELCO-5591,Female,0,Yes,No,4,Yes,Fiber optic,Yes,No,Month-to-month,No,Credit card (automatic),0,96.04,356.41,1,Relocation to uncovered service area
+TELCO-5592,Male,1,Yes,No,54,Yes,Fiber optic,Yes,No,Two year,Yes,Bank transfer (automatic),1,94.8,4980.86,0,Active Subscriber
+TELCO-5593,Female,0,No,No,13,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Mailed check,3,101.8,1244.2,0,Active Subscriber
+TELCO-5594,Male,0,Yes,Yes,2,Yes,DSL,No,Yes,Month-to-month,No,Credit card (automatic),0,66.5,129.38,0,Active Subscriber
+TELCO-5595,Female,0,No,No,28,Yes,Fiber optic,No,Yes,Two year,No,Credit card (automatic),4,92.42,2589.71,1,Price increase after promotional period
+TELCO-5596,Male,0,No,No,23,Yes,DSL,No,No,One year,Yes,Mailed check,2,52.97,1237.16,0,Active Subscriber
+TELCO-5597,Female,0,Yes,No,29,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0,23.52,645.61,0,Active Subscriber
+TELCO-5598,Female,0,Yes,No,50,Yes,No,No,No,One year,No,Credit card (automatic),0,28.37,1309.16,0,Active Subscriber
+TELCO-5599,Female,0,No,No,36,Yes,Fiber optic,Yes,No,Month-to-month,No,Bank transfer (automatic),1,93.56,3441.05,1,Price increase after promotional period
+TELCO-5600,Female,0,No,No,16,Yes,Fiber optic,Yes,No,Month-to-month,No,Bank transfer (automatic),0,89.7,1374.3,0,Active Subscriber
+TELCO-5601,Male,1,No,No,22,Yes,DSL,Yes,No,One year,No,Electronic check,0,62.69,1387.7,1,Competitor offered better price
+TELCO-5602,Male,0,No,No,12,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Bank transfer (automatic),1,105.3,1206.96,0,Active Subscriber
+TELCO-5603,Male,0,Yes,No,71,Yes,Fiber optic,No,Yes,Two year,No,Credit card (automatic),5,85.98,6405.72,0,Active Subscriber
+TELCO-5604,Male,1,No,No,25,Yes,No,No,No,One year,No,Credit card (automatic),2,22.52,521.32,0,Active Subscriber
+TELCO-5605,Female,0,Yes,No,58,Yes,Fiber optic,Yes,No,Two year,No,Credit card (automatic),0,86.02,5021.32,0,Active Subscriber
+TELCO-5606,Female,1,Yes,No,14,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Electronic check,0,103.81,1417.89,0,Active Subscriber
+TELCO-5607,Female,1,No,No,28,Yes,DSL,No,No,Month-to-month,No,Bank transfer (automatic),0,49.97,1388.84,0,Active Subscriber
+TELCO-5608,Female,0,Yes,Yes,51,Yes,DSL,Yes,No,Two year,Yes,Mailed check,0,60.01,3121.28,1,Customer dissatisfaction with support response time
+TELCO-5609,Male,1,No,No,19,Yes,Fiber optic,No,No,Month-to-month,No,Bank transfer (automatic),1,80.32,1539.84,1,Service reliability and speed issues
+TELCO-5610,Male,0,Yes,No,23,Yes,DSL,No,Yes,Month-to-month,Yes,Electronic check,0,56.89,1240.9,1,Customer dissatisfaction with support response time
+TELCO-5611,Male,1,Yes,No,39,Yes,Fiber optic,No,Yes,One year,Yes,Bank transfer (automatic),1,98.02,3900.81,0,Active Subscriber
+TELCO-5612,Female,0,Yes,Yes,19,Yes,Fiber optic,No,Yes,One year,No,Credit card (automatic),0,94.95,1888.98,1,Competitor offered better price
+TELCO-5613,Male,0,Yes,No,29,Yes,Fiber optic,No,No,One year,No,Mailed check,0,83.98,2389.9,1,Relocation to uncovered service area
+TELCO-5614,Female,0,No,No,14,Yes,DSL,Yes,No,Month-to-month,Yes,Credit card (automatic),1,63.39,820.69,1,Customer dissatisfaction with support response time
+TELCO-5615,Male,0,No,No,3,Yes,DSL,Yes,Yes,Month-to-month,Yes,Electronic check,0,75.02,222.06,1,Price increase after promotional period
+TELCO-5616,Female,0,No,No,52,Yes,Fiber optic,No,Yes,Two year,No,Bank transfer (automatic),2,85.32,4480.55,0,Active Subscriber
+TELCO-5617,Female,0,No,No,54,Yes,DSL,No,Yes,Two year,No,Credit card (automatic),1,57.42,2928.4,0,Active Subscriber
+TELCO-5618,Female,0,Yes,No,15,Yes,No,No,No,Month-to-month,No,Mailed check,1,32.86,466.92,0,Active Subscriber
+TELCO-5619,Female,0,No,No,2,Yes,No,No,No,Month-to-month,Yes,Electronic check,1,22.58,45.6,1,Relocation to uncovered service area
+TELCO-5620,Male,0,Yes,No,30,Yes,Fiber optic,No,Yes,One year,Yes,Bank transfer (automatic),0,86.2,2683.23,0,Active Subscriber
+TELCO-5621,Female,0,No,No,48,Yes,Fiber optic,No,No,One year,Yes,Electronic check,2,81.84,3792.04,1,Customer dissatisfaction with support response time
+TELCO-5622,Male,0,No,No,46,Yes,DSL,Yes,Yes,One year,No,Electronic check,1,76.75,3334.13,0,Active Subscriber
+TELCO-5623,Female,1,No,No,37,Yes,No,No,No,Two year,Yes,Credit card (automatic),5,30.69,1107.49,1,Customer dissatisfaction with support response time
+TELCO-5624,Male,0,Yes,No,32,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),4,102.43,3371.04,1,Competitor offered better price
+TELCO-5625,Male,0,Yes,No,14,Yes,DSL,No,Yes,Month-to-month,No,Electronic check,1,67.73,899.61,0,Active Subscriber
+TELCO-5626,Male,0,No,No,49,Yes,Fiber optic,Yes,No,Two year,Yes,Electronic check,1,93.11,4209.25,0,Active Subscriber
+TELCO-5627,Male,0,Yes,No,70,Yes,Fiber optic,No,No,Two year,Yes,Bank transfer (automatic),2,81.26,5548.59,0,Active Subscriber
+TELCO-5628,Male,0,No,No,22,Yes,Fiber optic,Yes,No,Month-to-month,No,Mailed check,0,83.65,1916.21,1,Relocation to uncovered service area
+TELCO-5629,Male,0,No,No,4,Yes,DSL,No,Yes,Month-to-month,No,Bank transfer (automatic),4,63.19,255.68,0,Active Subscriber
+TELCO-5630,Female,0,No,No,32,Yes,Fiber optic,No,No,Month-to-month,No,Bank transfer (automatic),2,82.65,2628.54,1,Relocation to uncovered service area
+TELCO-5631,Female,0,Yes,No,35,Yes,No,No,No,Two year,Yes,Credit card (automatic),5,27.19,932.05,0,Active Subscriber
+TELCO-5632,Female,0,Yes,Yes,7,Yes,Fiber optic,No,Yes,Month-to-month,No,Bank transfer (automatic),1,82.94,581.19,1,Price increase after promotional period
+TELCO-5633,Female,0,No,No,14,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0,88.98,1147.4,1,Price increase after promotional period
+TELCO-5634,Male,0,No,No,13,Yes,DSL,No,Yes,One year,Yes,Credit card (automatic),1,68.67,888.06,0,Active Subscriber
+TELCO-5635,Male,0,Yes,No,34,Yes,Fiber optic,No,No,One year,Yes,Bank transfer (automatic),1,88.86,2823.49,0,Active Subscriber
+TELCO-5636,Male,1,Yes,No,41,Yes,Fiber optic,Yes,Yes,Two year,Yes,Mailed check,0,112.69,4716.56,0,Active Subscriber
+TELCO-5637,Male,0,Yes,No,19,Yes,DSL,Yes,Yes,Month-to-month,No,Electronic check,2,76.79,1486.63,1,Switched to bundled streaming package
+TELCO-5638,Male,0,Yes,No,9,Yes,DSL,Yes,No,Month-to-month,No,Bank transfer (automatic),2,61.6,538.58,0,Active Subscriber
+TELCO-5639,Female,0,Yes,No,1,Yes,Fiber optic,No,No,Month-to-month,No,Electronic check,0,72.78,69.5,1,Relocation to uncovered service area
+TELCO-5640,Female,0,Yes,Yes,20,Yes,DSL,Yes,Yes,Month-to-month,Yes,Mailed check,2,79.44,1482.1,0,Active Subscriber
+TELCO-5641,Female,0,No,No,24,Yes,Fiber optic,Yes,No,Month-to-month,No,Bank transfer (automatic),2,82.13,1833.45,1,Competitor offered better price
+TELCO-5642,Female,0,Yes,Yes,34,Yes,DSL,Yes,Yes,Month-to-month,No,Mailed check,0,72.69,2412.42,1,Price increase after promotional period
+TELCO-5643,Female,0,Yes,Yes,50,Yes,DSL,Yes,No,Two year,Yes,Bank transfer (automatic),0,54.78,2776.76,0,Active Subscriber
+TELCO-5644,Male,0,No,No,1,Yes,Fiber optic,Yes,No,Month-to-month,No,Mailed check,1,77.7,71.75,1,Competitor offered better price
+TELCO-5645,Female,0,Yes,Yes,32,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Electronic check,2,83.03,2493.64,1,Switched to bundled streaming package
+TELCO-5646,Female,0,Yes,No,30,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Credit card (automatic),0,102.33,2926.81,0,Active Subscriber
+TELCO-5647,Male,0,No,No,47,Yes,No,No,No,Two year,No,Electronic check,0,23.45,1034.64,0,Active Subscriber
+TELCO-5648,Female,0,Yes,No,52,Yes,DSL,No,No,Two year,No,Mailed check,0,50.42,2684.03,1,Switched to bundled streaming package
+TELCO-5649,Male,0,No,No,20,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Mailed check,0,84.78,1718.7,1,Switched to bundled streaming package
+TELCO-5650,Female,0,No,No,35,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Mailed check,2,89.62,3122.86,0,Active Subscriber
+TELCO-5651,Female,1,No,No,28,Yes,No,No,No,One year,No,Credit card (automatic),0,31.73,872.68,0,Active Subscriber
+TELCO-5652,Male,1,No,No,36,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Electronic check,1,96.25,3627.63,1,Price increase after promotional period
+TELCO-5653,Male,0,No,No,9,Yes,Fiber optic,No,Yes,Month-to-month,No,Mailed check,0,98.43,911.0,1,Relocation to uncovered service area
+TELCO-5654,Female,0,Yes,No,10,Yes,DSL,No,No,Month-to-month,Yes,Mailed check,0,54.67,553.74,1,Switched to bundled streaming package
+TELCO-5655,Female,0,Yes,No,2,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Mailed check,2,103.24,204.69,0,Active Subscriber
+TELCO-5656,Female,0,Yes,No,26,Yes,DSL,Yes,Yes,Month-to-month,Yes,Electronic check,0,74.3,1977.74,0,Active Subscriber
+TELCO-5657,Male,0,Yes,No,35,Yes,DSL,Yes,No,Month-to-month,No,Bank transfer (automatic),1,66.75,2390.85,0,Active Subscriber
+TELCO-5658,Male,1,No,No,33,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Mailed check,0,100.03,3155.92,0,Active Subscriber
+TELCO-5659,Male,1,Yes,No,10,Yes,Fiber optic,No,No,Month-to-month,No,Mailed check,4,72.48,738.35,1,Service reliability and speed issues
+TELCO-5660,Male,0,Yes,Yes,17,Yes,Fiber optic,No,No,Month-to-month,No,Credit card (automatic),0,77.98,1268.44,1,Competitor offered better price
+TELCO-5661,Male,0,Yes,Yes,53,Yes,Fiber optic,Yes,Yes,One year,No,Bank transfer (automatic),4,97.91,4924.18,1,Relocation to uncovered service area
+TELCO-5662,Male,0,No,No,23,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Credit card (automatic),0,85.38,1969.3,0,Active Subscriber
+TELCO-5663,Male,0,No,No,22,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Credit card (automatic),4,94.26,1936.72,1,Switched to bundled streaming package
+TELCO-5664,Female,0,Yes,Yes,38,Yes,Fiber optic,No,Yes,Two year,No,Credit card (automatic),0,101.29,3568.81,0,Active Subscriber
+TELCO-5665,Male,0,No,No,9,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Electronic check,0,113.4,1014.29,1,Switched to bundled streaming package
+TELCO-5666,Female,1,No,No,17,Yes,DSL,Yes,No,Month-to-month,Yes,Bank transfer (automatic),1,67.04,1094.74,0,Active Subscriber
+TELCO-5667,Female,0,Yes,No,6,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),1,22.28,128.77,0,Active Subscriber
+TELCO-5668,Male,1,No,No,27,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Bank transfer (automatic),2,85.1,2273.62,0,Active Subscriber
+TELCO-5669,Male,0,Yes,Yes,49,Yes,DSL,No,No,Two year,Yes,Bank transfer (automatic),5,64.96,3322.62,0,Active Subscriber
+TELCO-5670,Female,1,No,No,29,Yes,Fiber optic,No,No,Two year,Yes,Mailed check,0,89.33,2606.4,1,Competitor offered better price
+TELCO-5671,Female,0,No,No,44,Yes,No,No,No,Two year,Yes,Bank transfer (automatic),0,23.38,1061.98,0,Active Subscriber
+TELCO-5672,Female,0,Yes,Yes,12,Yes,DSL,Yes,No,Month-to-month,No,Bank transfer (automatic),2,66.58,736.83,0,Active Subscriber
+TELCO-5673,Male,0,Yes,No,12,Yes,DSL,Yes,Yes,One year,No,Mailed check,0,73.3,907.25,0,Active Subscriber
+TELCO-5674,Female,0,Yes,No,2,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Electronic check,5,97.48,188.17,1,Customer dissatisfaction with support response time
+TELCO-5675,Female,0,No,No,4,Yes,DSL,Yes,Yes,Month-to-month,No,Electronic check,2,71.5,274.68,1,Customer dissatisfaction with support response time
+TELCO-5676,Male,0,No,No,36,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Electronic check,0,94.8,3507.16,1,Competitor offered better price
+TELCO-5677,Male,0,No,No,53,Yes,Fiber optic,Yes,No,Two year,No,Electronic check,2,96.49,5211.39,0,Active Subscriber
+TELCO-5678,Female,1,Yes,No,65,Yes,DSL,No,Yes,Two year,No,Bank transfer (automatic),3,62.34,3878.01,0,Active Subscriber
+TELCO-5679,Male,0,No,No,11,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Electronic check,1,93.51,1020.95,1,Price increase after promotional period
+TELCO-5680,Male,0,No,No,10,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Credit card (automatic),0,96.27,901.93,1,Competitor offered better price
+TELCO-5681,Male,0,Yes,Yes,59,Yes,DSL,Yes,Yes,Two year,No,Bank transfer (automatic),1,70.37,3827.74,0,Active Subscriber
+TELCO-5682,Male,0,No,No,23,Yes,Fiber optic,Yes,Yes,One year,Yes,Credit card (automatic),1,110.61,2394.17,0,Active Subscriber
+TELCO-5683,Female,0,No,No,54,Yes,No,No,No,One year,No,Credit card (automatic),1,24.86,1317.44,0,Active Subscriber
+TELCO-5684,Female,0,Yes,Yes,71,Yes,No,No,No,Two year,Yes,Electronic check,0,26.01,1924.55,0,Active Subscriber
+TELCO-5685,Female,1,Yes,Yes,24,Yes,No,No,No,Month-to-month,No,Mailed check,0,24.39,542.06,1,Switched to bundled streaming package
+TELCO-5686,Male,0,Yes,No,15,Yes,No,No,No,Month-to-month,No,Electronic check,2,27.54,381.32,0,Active Subscriber
+TELCO-5687,Male,0,No,No,47,Yes,Fiber optic,No,Yes,Two year,No,Bank transfer (automatic),0,84.26,4036.55,0,Active Subscriber
+TELCO-5688,Male,0,No,No,18,Yes,DSL,Yes,No,Month-to-month,No,Bank transfer (automatic),2,60.42,1129.51,1,Price increase after promotional period
+TELCO-5689,Female,1,Yes,Yes,5,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Bank transfer (automatic),2,105.9,549.49,1,Price increase after promotional period
+TELCO-5690,Female,0,No,No,30,Yes,Fiber optic,Yes,No,Month-to-month,No,Electronic check,0,88.58,2500.35,0,Active Subscriber
+TELCO-5691,Female,0,No,No,40,Yes,Fiber optic,Yes,Yes,One year,No,Mailed check,0,98.19,3665.34,0,Active Subscriber
+TELCO-5692,Male,0,No,No,15,Yes,DSL,No,Yes,One year,No,Bank transfer (automatic),0,74.23,1055.71,0,Active Subscriber
+TELCO-5693,Male,0,No,No,25,Yes,Fiber optic,No,No,Month-to-month,Yes,Bank transfer (automatic),0,80.42,1862.68,0,Active Subscriber
+TELCO-5694,Female,1,No,No,17,Yes,DSL,No,Yes,Month-to-month,No,Credit card (automatic),1,61.09,973.82,1,Competitor offered better price
+TELCO-5695,Male,1,Yes,No,37,Yes,Fiber optic,No,Yes,Two year,No,Credit card (automatic),1,91.99,3526.52,0,Active Subscriber
+TELCO-5696,Male,0,No,No,28,Yes,Fiber optic,No,No,One year,Yes,Mailed check,1,76.7,1977.47,0,Active Subscriber
+TELCO-5697,Male,1,No,No,53,Yes,Fiber optic,No,Yes,One year,No,Credit card (automatic),0,98.14,5284.24,0,Active Subscriber
+TELCO-5698,Female,0,No,No,34,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0,111.15,3604.34,1,Customer dissatisfaction with support response time
+TELCO-5699,Female,0,Yes,Yes,7,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),2,23.62,154.4,0,Active Subscriber
+TELCO-5700,Female,0,Yes,No,18,Yes,Fiber optic,No,Yes,Month-to-month,No,Mailed check,0,93.84,1737.82,1,Competitor offered better price
+TELCO-5701,Female,1,Yes,Yes,60,Yes,Fiber optic,No,Yes,Two year,Yes,Electronic check,5,88.54,5436.25,0,Active Subscriber
+TELCO-5702,Male,0,No,No,2,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Credit card (automatic),3,98.4,204.63,1,Competitor offered better price
+TELCO-5703,Female,0,Yes,Yes,25,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Credit card (automatic),0,103.79,2582.0,1,Relocation to uncovered service area
+TELCO-5704,Female,1,Yes,No,46,Yes,Fiber optic,No,No,Two year,No,Electronic check,1,75.62,3478.7,0,Active Subscriber
+TELCO-5705,Male,0,Yes,No,4,Yes,DSL,No,Yes,Month-to-month,No,Electronic check,0,55.75,213.81,1,Relocation to uncovered service area
+TELCO-5706,Female,0,No,No,61,Yes,DSL,No,No,Two year,No,Electronic check,1,55.24,3314.39,1,Price increase after promotional period
+TELCO-5707,Female,0,Yes,Yes,1,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Mailed check,1,93.75,94.36,1,Competitor offered better price
+TELCO-5708,Female,0,No,No,35,Yes,Fiber optic,Yes,No,Two year,No,Mailed check,0,82.08,2978.63,0,Active Subscriber
+TELCO-5709,Male,0,Yes,Yes,46,Yes,No,No,No,Two year,Yes,Electronic check,1,30.86,1463.5,0,Active Subscriber
+TELCO-5710,Female,0,Yes,Yes,16,Yes,DSL,Yes,No,Month-to-month,Yes,Bank transfer (automatic),2,65.18,985.58,1,Customer dissatisfaction with support response time
+TELCO-5711,Female,0,Yes,Yes,29,Yes,DSL,Yes,Yes,One year,Yes,Mailed check,3,78.82,2326.57,1,Service reliability and speed issues
+TELCO-5712,Female,0,Yes,No,20,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Mailed check,0,100.22,1997.26,1,Customer dissatisfaction with support response time
+TELCO-5713,Female,0,Yes,No,9,Yes,No,No,No,Month-to-month,No,Electronic check,2,23.08,195.98,1,Service reliability and speed issues
+TELCO-5714,Male,0,Yes,No,33,Yes,Fiber optic,No,No,Two year,No,Electronic check,0,77.58,2588.71,0,Active Subscriber
+TELCO-5715,Male,0,Yes,No,32,Yes,No,No,No,Two year,Yes,Mailed check,2,25.47,778.5,0,Active Subscriber
+TELCO-5716,Male,1,No,No,7,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Credit card (automatic),1,95.6,641.72,1,Switched to bundled streaming package
+TELCO-5717,Male,0,Yes,Yes,17,Yes,No,No,No,One year,Yes,Bank transfer (automatic),1,23.69,396.78,0,Active Subscriber
+TELCO-5718,Male,0,Yes,Yes,16,Yes,DSL,Yes,No,Month-to-month,No,Bank transfer (automatic),0,67.05,1092.63,0,Active Subscriber
+TELCO-5719,Male,0,No,No,33,Yes,DSL,Yes,No,One year,No,Mailed check,2,74.12,2452.69,0,Active Subscriber
+TELCO-5720,Female,0,No,No,11,Yes,DSL,No,No,Month-to-month,Yes,Bank transfer (automatic),2,47.57,506.06,1,Price increase after promotional period
+TELCO-5721,Female,0,Yes,Yes,66,Yes,Fiber optic,No,Yes,Two year,No,Mailed check,2,87.15,5990.01,0,Active Subscriber
+TELCO-5722,Female,0,No,No,11,Yes,DSL,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),0,82.57,929.23,1,Customer dissatisfaction with support response time
+TELCO-5723,Male,0,No,No,9,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),3,26.88,235.46,0,Active Subscriber
+TELCO-5724,Male,1,No,No,15,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Electronic check,1,84.75,1271.11,1,Customer dissatisfaction with support response time
+TELCO-5725,Male,0,No,No,68,Yes,Fiber optic,No,Yes,Two year,Yes,Mailed check,1,105.37,6635.52,0,Active Subscriber
+TELCO-5726,Female,0,No,No,9,Yes,DSL,No,Yes,Month-to-month,Yes,Bank transfer (automatic),0,69.0,602.88,1,Customer dissatisfaction with support response time
+TELCO-5727,Female,0,No,No,14,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0,100.92,1480.41,0,Active Subscriber
+TELCO-5728,Female,0,Yes,No,25,Yes,No,No,No,Month-to-month,No,Electronic check,3,29.87,720.89,1,Customer dissatisfaction with support response time
+TELCO-5729,Female,0,No,No,14,Yes,DSL,No,Yes,Month-to-month,No,Mailed check,1,67.75,970.04,1,Service reliability and speed issues
+TELCO-5730,Female,0,No,No,32,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Mailed check,0,96.21,3080.46,1,Customer dissatisfaction with support response time
+TELCO-5731,Female,0,No,No,23,Yes,DSL,Yes,No,Month-to-month,No,Mailed check,1,53.58,1202.38,1,Service reliability and speed issues
+TELCO-5732,Female,0,Yes,Yes,32,Yes,DSL,No,Yes,Two year,Yes,Bank transfer (automatic),1,66.81,2083.07,0,Active Subscriber
+TELCO-5733,Female,0,No,No,22,Yes,Fiber optic,Yes,No,Month-to-month,No,Credit card (automatic),2,99.66,2195.49,1,Competitor offered better price
+TELCO-5734,Female,0,Yes,Yes,28,Yes,Fiber optic,No,Yes,One year,Yes,Bank transfer (automatic),1,98.83,2787.59,0,Active Subscriber
+TELCO-5735,Female,0,No,No,4,Yes,DSL,No,No,Month-to-month,No,Electronic check,1,57.93,225.12,1,Switched to bundled streaming package
+TELCO-5736,Female,1,No,No,48,Yes,No,No,No,Two year,No,Electronic check,0,23.45,1146.03,0,Active Subscriber
+TELCO-5737,Male,0,Yes,No,20,Yes,DSL,Yes,Yes,Month-to-month,No,Credit card (automatic),0,78.98,1521.93,0,Active Subscriber
+TELCO-5738,Female,0,No,No,16,Yes,No,No,No,Month-to-month,No,Mailed check,0,24.51,383.43,1,Switched to bundled streaming package
+TELCO-5739,Female,0,Yes,No,27,Yes,DSL,Yes,Yes,Month-to-month,No,Bank transfer (automatic),2,81.66,2146.04,0,Active Subscriber
+TELCO-5740,Female,0,No,No,14,Yes,DSL,No,Yes,Month-to-month,Yes,Bank transfer (automatic),1,62.12,864.85,1,Price increase after promotional period
+TELCO-5741,Female,1,Yes,No,2,Yes,No,No,No,Month-to-month,No,Mailed check,0,25.55,52.62,1,Relocation to uncovered service area
+TELCO-5742,Male,0,No,No,37,Yes,DSL,No,No,One year,Yes,Electronic check,0,50.5,1769.04,1,Switched to bundled streaming package
+TELCO-5743,Male,0,Yes,No,10,Yes,DSL,No,Yes,Month-to-month,No,Mailed check,2,63.41,617.89,1,Competitor offered better price
+TELCO-5744,Female,0,Yes,No,37,Yes,Fiber optic,No,No,Two year,Yes,Electronic check,1,73.98,2773.76,0,Active Subscriber
+TELCO-5745,Female,0,Yes,Yes,12,Yes,DSL,Yes,No,Month-to-month,No,Credit card (automatic),0,75.61,842.23,1,Price increase after promotional period
+TELCO-5746,Male,1,No,No,18,Yes,No,No,No,Month-to-month,Yes,Electronic check,1,30.17,546.12,0,Active Subscriber
+TELCO-5747,Male,0,Yes,Yes,25,Yes,No,No,No,Month-to-month,No,Mailed check,1,26.25,685.13,1,Switched to bundled streaming package
+TELCO-5748,Male,0,No,No,36,Yes,DSL,Yes,Yes,Two year,Yes,Electronic check,1,74.45,2793.12,0,Active Subscriber
+TELCO-5749,Male,0,No,No,33,Yes,No,No,No,Month-to-month,Yes,Electronic check,1,24.24,801.35,1,Price increase after promotional period
+TELCO-5750,Male,0,No,No,13,Yes,DSL,No,No,One year,Yes,Credit card (automatic),0,61.83,808.51,0,Active Subscriber
+TELCO-5751,Female,1,Yes,No,8,Yes,Fiber optic,No,Yes,Month-to-month,No,Electronic check,0,88.81,720.07,1,Relocation to uncovered service area
+TELCO-5752,Male,0,Yes,No,50,Yes,Fiber optic,Yes,Yes,Two year,No,Bank transfer (automatic),0,98.34,4648.04,0,Active Subscriber
+TELCO-5753,Female,0,Yes,No,1,Yes,DSL,Yes,No,Month-to-month,No,Mailed check,0,63.21,64.2,1,Service reliability and speed issues
+TELCO-5754,Male,0,Yes,No,59,Yes,Fiber optic,Yes,No,Two year,No,Credit card (automatic),2,79.56,4873.5,0,Active Subscriber
+TELCO-5755,Male,0,No,No,20,Yes,Fiber optic,Yes,No,One year,No,Electronic check,0,81.77,1684.1,1,Relocation to uncovered service area
+TELCO-5756,Female,0,Yes,No,49,Yes,DSL,Yes,No,Two year,No,Mailed check,0,72.36,3643.21,0,Active Subscriber
+TELCO-5757,Female,1,Yes,No,3,Yes,DSL,Yes,Yes,Month-to-month,No,Credit card (automatic),0,68.71,199.85,1,Service reliability and speed issues
+TELCO-5758,Female,0,No,No,35,Yes,No,No,No,Two year,Yes,Bank transfer (automatic),0,29.33,962.43,0,Active Subscriber
+TELCO-5759,Male,0,No,No,48,Yes,Fiber optic,Yes,No,One year,Yes,Mailed check,3,93.31,4460.26,1,Price increase after promotional period
+TELCO-5760,Male,0,Yes,Yes,40,Yes,DSL,No,No,One year,No,Credit card (automatic),0,62.79,2510.14,1,Service reliability and speed issues
+TELCO-5761,Male,0,No,No,36,Yes,No,No,No,Two year,Yes,Electronic check,0,23.05,828.48,0,Active Subscriber
+TELCO-5762,Male,0,Yes,Yes,26,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),2,29.68,724.67,0,Active Subscriber
+TELCO-5763,Male,1,Yes,Yes,35,Yes,Fiber optic,No,No,Month-to-month,Yes,Credit card (automatic),1,84.91,2915.71,0,Active Subscriber
+TELCO-5764,Female,0,Yes,Yes,15,Yes,DSL,Yes,Yes,Month-to-month,Yes,Electronic check,1,76.35,1103.78,1,Relocation to uncovered service area
+TELCO-5765,Female,0,Yes,No,35,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0,26.41,961.1,1,Competitor offered better price
+TELCO-5766,Male,0,No,No,27,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),4,26.93,707.61,1,Switched to bundled streaming package
+TELCO-5767,Female,1,Yes,Yes,16,Yes,Fiber optic,No,Yes,One year,No,Bank transfer (automatic),3,84.63,1361.34,1,Competitor offered better price
+TELCO-5768,Female,0,Yes,No,15,Yes,No,No,No,Month-to-month,Yes,Electronic check,0,25.85,377.85,1,Price increase after promotional period
+TELCO-5769,Male,0,No,No,20,Yes,DSL,No,Yes,Month-to-month,No,Bank transfer (automatic),1,64.22,1227.58,1,Service reliability and speed issues
+TELCO-5770,Female,0,No,No,12,Yes,DSL,No,Yes,One year,No,Credit card (automatic),0,75.84,919.12,0,Active Subscriber
+TELCO-5771,Male,0,Yes,No,17,Yes,No,No,No,One year,Yes,Mailed check,3,32.72,546.69,0,Active Subscriber
+TELCO-5772,Male,0,No,No,23,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Electronic check,0,94.7,2101.91,0,Active Subscriber
+TELCO-5773,Female,0,No,No,42,Yes,Fiber optic,Yes,No,One year,No,Electronic check,1,95.44,3689.2,0,Active Subscriber
+TELCO-5774,Male,0,No,No,69,Yes,Fiber optic,Yes,Yes,Two year,Yes,Electronic check,2,97.17,6644.19,1,Customer dissatisfaction with support response time
+TELCO-5775,Female,0,Yes,No,13,Yes,Fiber optic,No,No,One year,Yes,Mailed check,0,84.19,1100.83,1,Switched to bundled streaming package
+TELCO-5776,Female,0,No,No,27,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Mailed check,1,100.77,2549.87,1,Service reliability and speed issues
+TELCO-5777,Male,0,Yes,No,26,Yes,DSL,Yes,No,Two year,Yes,Electronic check,1,64.15,1746.75,0,Active Subscriber
+TELCO-5778,Female,1,Yes,Yes,36,Yes,No,No,No,One year,No,Bank transfer (automatic),1,30.92,1038.58,0,Active Subscriber
+TELCO-5779,Female,0,No,No,30,Yes,DSL,Yes,No,Month-to-month,Yes,Mailed check,0,54.92,1686.87,1,Relocation to uncovered service area
+TELCO-5780,Male,0,No,No,13,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),0,104.71,1266.48,1,Price increase after promotional period
+TELCO-5781,Female,0,No,No,12,Yes,DSL,Yes,No,Month-to-month,No,Electronic check,0,71.66,818.87,0,Active Subscriber
+TELCO-5782,Male,0,Yes,No,25,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Bank transfer (automatic),3,87.1,2149.63,1,Customer dissatisfaction with support response time
+TELCO-5783,Male,0,Yes,Yes,1,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Electronic check,3,94.54,94.64,1,Price increase after promotional period
+TELCO-5784,Male,1,Yes,No,13,Yes,Fiber optic,No,Yes,Month-to-month,No,Bank transfer (automatic),1,88.03,1167.0,0,Active Subscriber
+TELCO-5785,Female,0,Yes,No,63,Yes,No,No,No,Two year,No,Electronic check,0,22.46,1433.6,0,Active Subscriber
+TELCO-5786,Female,1,No,No,42,Yes,DSL,Yes,No,Two year,No,Bank transfer (automatic),3,54.35,2321.81,0,Active Subscriber
+TELCO-5787,Male,0,Yes,No,19,Yes,DSL,Yes,No,Month-to-month,No,Credit card (automatic),0,58.96,1141.6,1,Switched to bundled streaming package
+TELCO-5788,Female,0,No,No,38,Yes,Fiber optic,Yes,No,One year,No,Mailed check,0,91.57,3247.68,0,Active Subscriber
+TELCO-5789,Female,0,No,No,46,Yes,Fiber optic,Yes,No,Two year,Yes,Bank transfer (automatic),1,84.87,3997.6,1,Service reliability and speed issues
+TELCO-5790,Male,0,Yes,Yes,15,Yes,DSL,Yes,No,One year,No,Electronic check,0,54.83,793.74,1,Service reliability and speed issues
+TELCO-5791,Male,0,No,No,24,Yes,DSL,No,No,Month-to-month,No,Credit card (automatic),1,50.9,1157.82,1,Relocation to uncovered service area
+TELCO-5792,Male,0,Yes,No,49,Yes,DSL,No,No,Two year,No,Bank transfer (automatic),0,59.3,2892.61,0,Active Subscriber
+TELCO-5793,Male,0,No,No,12,Yes,DSL,No,No,One year,No,Electronic check,2,57.42,667.44,0,Active Subscriber
+TELCO-5794,Female,1,Yes,No,24,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Mailed check,0,98.13,2299.12,0,Active Subscriber
+TELCO-5795,Female,0,Yes,Yes,72,Yes,Fiber optic,Yes,Yes,Two year,No,Credit card (automatic),0,93.73,6352.44,0,Active Subscriber
+TELCO-5796,Male,0,No,No,22,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Mailed check,0,111.59,2466.57,1,Price increase after promotional period
+TELCO-5797,Male,0,Yes,Yes,31,Yes,Fiber optic,No,No,One year,Yes,Mailed check,3,84.49,2578.08,1,Switched to bundled streaming package
+TELCO-5798,Female,0,No,No,27,Yes,Fiber optic,Yes,No,Two year,No,Bank transfer (automatic),0,90.24,2531.33,0,Active Subscriber
+TELCO-5799,Male,0,Yes,Yes,16,Yes,No,No,No,Month-to-month,Yes,Mailed check,2,30.67,465.08,0,Active Subscriber
+TELCO-5800,Male,1,No,No,33,Yes,DSL,No,Yes,Month-to-month,Yes,Credit card (automatic),0,64.81,2162.21,1,Relocation to uncovered service area
+TELCO-5801,Male,1,No,No,21,Yes,DSL,Yes,No,Month-to-month,No,Mailed check,1,54.47,1077.56,1,Competitor offered better price
+TELCO-5802,Female,0,No,No,35,Yes,Fiber optic,No,Yes,One year,No,Credit card (automatic),0,92.13,3178.84,0,Active Subscriber
+TELCO-5803,Male,1,No,No,66,Yes,Fiber optic,Yes,No,Two year,No,Bank transfer (automatic),4,84.65,5853.25,0,Active Subscriber
+TELCO-5804,Female,0,No,No,32,Yes,DSL,Yes,Yes,Month-to-month,No,Electronic check,0,79.58,2590.65,0,Active Subscriber
+TELCO-5805,Female,0,No,No,51,Yes,Fiber optic,Yes,Yes,Two year,Yes,Mailed check,2,99.7,4873.98,0,Active Subscriber
+TELCO-5806,Female,1,Yes,Yes,19,Yes,DSL,Yes,Yes,Month-to-month,No,Mailed check,0,74.18,1399.71,1,Competitor offered better price
+TELCO-5807,Male,0,No,No,20,Yes,No,No,No,One year,No,Credit card (automatic),0,31.63,656.8,0,Active Subscriber
+TELCO-5808,Male,0,No,No,45,Yes,DSL,Yes,Yes,One year,No,Electronic check,0,63.22,2855.1,0,Active Subscriber
+TELCO-5809,Female,0,Yes,Yes,30,Yes,DSL,No,No,Month-to-month,No,Credit card (automatic),0,56.88,1735.73,0,Active Subscriber
+TELCO-5810,Female,0,No,No,40,Yes,DSL,Yes,Yes,One year,No,Electronic check,0,72.31,2718.98,0,Active Subscriber
+TELCO-5811,Male,0,No,No,33,Yes,Fiber optic,No,No,Month-to-month,No,Bank transfer (automatic),1,83.43,2678.37,0,Active Subscriber
+TELCO-5812,Female,0,No,No,41,Yes,Fiber optic,No,Yes,Two year,Yes,Credit card (automatic),1,102.0,3850.55,0,Active Subscriber
+TELCO-5813,Female,0,Yes,Yes,12,Yes,Fiber optic,No,No,Month-to-month,No,Bank transfer (automatic),0,75.82,942.53,0,Active Subscriber
+TELCO-5814,Female,1,Yes,Yes,38,Yes,Fiber optic,Yes,No,Two year,No,Electronic check,2,91.22,3566.0,0,Active Subscriber
+TELCO-5815,Male,0,Yes,No,14,Yes,No,No,No,Month-to-month,No,Electronic check,0,23.69,327.23,0,Active Subscriber
+TELCO-5816,Female,0,Yes,Yes,25,Yes,No,No,No,One year,Yes,Credit card (automatic),1,30.21,721.25,0,Active Subscriber
+TELCO-5817,Female,0,No,No,25,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Bank transfer (automatic),0,97.11,2425.86,1,Customer dissatisfaction with support response time
+TELCO-5818,Female,0,No,No,52,Yes,DSL,No,Yes,One year,No,Electronic check,3,72.3,3924.78,0,Active Subscriber
+TELCO-5819,Male,0,No,No,6,Yes,DSL,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),1,72.58,420.67,0,Active Subscriber
+TELCO-5820,Male,0,No,No,35,Yes,Fiber optic,No,No,Month-to-month,No,Bank transfer (automatic),4,83.45,2852.94,1,Service reliability and speed issues
+TELCO-5821,Male,0,No,No,22,Yes,No,No,No,One year,Yes,Bank transfer (automatic),2,29.55,615.12,0,Active Subscriber
+TELCO-5822,Female,0,No,No,28,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Credit card (automatic),2,100.58,2602.34,0,Active Subscriber
+TELCO-5823,Male,0,No,No,25,Yes,DSL,Yes,No,Month-to-month,Yes,Electronic check,0,59.18,1438.62,0,Active Subscriber
+TELCO-5824,Male,0,Yes,Yes,36,Yes,Fiber optic,No,No,Month-to-month,Yes,Credit card (automatic),3,78.79,2828.45,1,Relocation to uncovered service area
+TELCO-5825,Male,0,No,No,15,Yes,DSL,Yes,Yes,Month-to-month,Yes,Electronic check,2,83.91,1235.11,0,Active Subscriber
+TELCO-5826,Female,0,No,No,59,Yes,DSL,Yes,No,Two year,No,Credit card (automatic),1,66.8,3769.65,0,Active Subscriber
+TELCO-5827,Male,0,No,No,14,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),1,98.32,1349.17,1,Price increase after promotional period
+TELCO-5828,Male,0,No,No,25,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),1,30.38,715.29,0,Active Subscriber
+TELCO-5829,Male,0,Yes,No,52,Yes,Fiber optic,Yes,No,One year,Yes,Bank transfer (automatic),2,80.0,4252.46,0,Active Subscriber
+TELCO-5830,Male,0,No,No,55,Yes,DSL,Yes,Yes,Two year,No,Credit card (automatic),2,68.61,3475.12,0,Active Subscriber
+TELCO-5831,Male,1,Yes,No,15,Yes,DSL,No,Yes,Month-to-month,No,Bank transfer (automatic),1,60.29,858.33,0,Active Subscriber
+TELCO-5832,Male,0,No,No,13,Yes,DSL,Yes,No,Month-to-month,No,Electronic check,2,67.87,850.53,1,Switched to bundled streaming package
+TELCO-5833,Male,0,Yes,Yes,3,Yes,DSL,No,No,Month-to-month,Yes,Credit card (automatic),1,59.66,172.98,1,Switched to bundled streaming package
+TELCO-5834,Male,0,No,No,20,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Electronic check,1,115.33,2141.23,0,Active Subscriber
+TELCO-5835,Male,1,No,No,72,Yes,Fiber optic,Yes,No,Two year,Yes,Electronic check,1,89.28,6242.78,0,Active Subscriber
+TELCO-5836,Female,0,Yes,No,19,Yes,DSL,No,No,Month-to-month,No,Bank transfer (automatic),0,51.23,928.83,0,Active Subscriber
+TELCO-5837,Male,0,No,No,20,Yes,Fiber optic,Yes,Yes,One year,No,Mailed check,2,95.72,1913.85,0,Active Subscriber
+TELCO-5838,Male,1,No,No,26,Yes,DSL,Yes,Yes,One year,No,Mailed check,2,74.08,1798.15,1,Competitor offered better price
+TELCO-5839,Female,0,No,No,23,Yes,No,No,No,One year,No,Bank transfer (automatic),0,24.49,540.18,0,Active Subscriber
+TELCO-5840,Female,0,No,No,36,Yes,Fiber optic,No,Yes,One year,No,Credit card (automatic),0,89.54,3320.31,1,Switched to bundled streaming package
+TELCO-5841,Female,0,Yes,No,1,Yes,DSL,No,Yes,Month-to-month,Yes,Mailed check,0,66.55,64.14,0,Active Subscriber
+TELCO-5842,Female,0,Yes,No,72,Yes,No,No,No,Two year,No,Credit card (automatic),0,23.09,1594.29,0,Active Subscriber
+TELCO-5843,Female,0,Yes,No,42,Yes,Fiber optic,Yes,Yes,Two year,Yes,Mailed check,2,105.62,4464.33,1,Customer dissatisfaction with support response time
+TELCO-5844,Female,1,No,No,36,Yes,DSL,Yes,No,Two year,No,Credit card (automatic),0,59.91,2100.75,0,Active Subscriber
+TELCO-5845,Female,0,Yes,Yes,26,Yes,DSL,Yes,No,Two year,Yes,Mailed check,1,72.65,1770.8,0,Active Subscriber
+TELCO-5846,Female,0,Yes,Yes,63,Yes,DSL,No,Yes,Two year,Yes,Credit card (automatic),3,71.95,4606.5,0,Active Subscriber
+TELCO-5847,Female,0,No,No,23,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Credit card (automatic),3,92.81,1981.25,1,Service reliability and speed issues
+TELCO-5848,Male,1,No,No,28,Yes,Fiber optic,Yes,No,Two year,No,Credit card (automatic),3,86.85,2416.7,0,Active Subscriber
+TELCO-5849,Female,0,Yes,No,3,Yes,Fiber optic,Yes,No,Month-to-month,No,Electronic check,4,95.3,264.01,1,Service reliability and speed issues
+TELCO-5850,Female,0,Yes,No,23,Yes,Fiber optic,No,No,One year,Yes,Electronic check,0,78.06,1776.26,0,Active Subscriber
+TELCO-5851,Male,0,No,No,13,Yes,DSL,No,No,Month-to-month,Yes,Electronic check,0,55.65,679.57,0,Active Subscriber
+TELCO-5852,Female,0,No,No,32,Yes,Fiber optic,No,Yes,One year,No,Credit card (automatic),1,78.42,2401.79,0,Active Subscriber
+TELCO-5853,Male,0,No,No,14,Yes,Fiber optic,Yes,No,Month-to-month,No,Electronic check,4,90.41,1260.3,1,Relocation to uncovered service area
+TELCO-5854,Female,0,Yes,No,63,Yes,Fiber optic,No,Yes,Two year,No,Credit card (automatic),0,94.04,5967.65,0,Active Subscriber
+TELCO-5855,Female,0,No,No,16,Yes,DSL,Yes,No,One year,No,Mailed check,2,52.72,816.86,1,Relocation to uncovered service area
+TELCO-5856,Male,0,Yes,Yes,32,Yes,Fiber optic,Yes,No,Two year,Yes,Electronic check,0,89.13,2686.35,0,Active Subscriber
+TELCO-5857,Female,0,Yes,Yes,26,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Mailed check,2,97.83,2480.43,0,Active Subscriber
+TELCO-5858,Male,0,Yes,Yes,4,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Electronic check,0,109.69,424.9,1,Price increase after promotional period
+TELCO-5859,Male,1,Yes,No,12,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Electronic check,2,91.98,1067.63,1,Switched to bundled streaming package
+TELCO-5860,Female,0,No,No,31,Yes,Fiber optic,No,Yes,One year,No,Electronic check,0,84.61,2620.87,0,Active Subscriber
+TELCO-5861,Female,0,No,No,30,Yes,Fiber optic,Yes,No,Month-to-month,No,Mailed check,0,96.01,2888.27,1,Switched to bundled streaming package
+TELCO-5862,Female,0,No,No,48,Yes,Fiber optic,No,Yes,Two year,No,Bank transfer (automatic),2,101.27,5092.53,0,Active Subscriber
+TELCO-5863,Male,0,No,No,30,Yes,Fiber optic,No,Yes,Two year,No,Mailed check,0,86.51,2477.62,0,Active Subscriber
+TELCO-5864,Female,0,No,No,37,Yes,No,No,No,One year,No,Mailed check,0,32.16,1161.91,0,Active Subscriber
+TELCO-5865,Female,0,No,No,21,Yes,Fiber optic,No,No,One year,No,Credit card (automatic),0,81.21,1635.0,0,Active Subscriber
+TELCO-5866,Female,1,Yes,Yes,2,Yes,DSL,No,No,Month-to-month,Yes,Credit card (automatic),2,50.87,99.06,1,Price increase after promotional period
+TELCO-5867,Female,0,Yes,No,26,Yes,DSL,No,Yes,One year,Yes,Electronic check,0,64.87,1699.43,0,Active Subscriber
+TELCO-5868,Male,0,Yes,Yes,25,Yes,No,No,No,Month-to-month,Yes,Electronic check,4,27.21,631.04,1,Price increase after promotional period
+TELCO-5869,Female,0,Yes,No,19,Yes,DSL,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),2,79.38,1465.64,0,Active Subscriber
+TELCO-5870,Male,0,No,No,42,Yes,DSL,No,Yes,Two year,No,Mailed check,3,76.14,3085.26,0,Active Subscriber
+TELCO-5871,Male,0,No,No,27,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Bank transfer (automatic),1,98.45,2688.26,1,Relocation to uncovered service area
+TELCO-5872,Female,1,Yes,Yes,48,Yes,Fiber optic,Yes,Yes,Two year,No,Electronic check,0,92.73,4157.12,0,Active Subscriber
+TELCO-5873,Male,0,No,No,29,Yes,Fiber optic,Yes,Yes,One year,No,Credit card (automatic),1,102.63,2821.53,0,Active Subscriber
+TELCO-5874,Female,0,Yes,Yes,51,Yes,DSL,Yes,Yes,Two year,Yes,Electronic check,0,80.88,4059.59,0,Active Subscriber
+TELCO-5875,Male,0,Yes,No,31,Yes,DSL,Yes,Yes,One year,Yes,Electronic check,0,70.47,2196.15,0,Active Subscriber
+TELCO-5876,Female,1,Yes,Yes,8,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),1,107.51,898.03,0,Active Subscriber
+TELCO-5877,Female,0,No,No,36,Yes,No,No,No,Two year,Yes,Credit card (automatic),1,24.3,813.31,0,Active Subscriber
+TELCO-5878,Female,0,Yes,Yes,6,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Mailed check,3,90.89,557.77,1,Competitor offered better price
+TELCO-5879,Female,1,Yes,No,8,Yes,DSL,Yes,Yes,Month-to-month,No,Bank transfer (automatic),0,76.19,571.26,0,Active Subscriber
+TELCO-5880,Male,0,Yes,No,5,Yes,DSL,No,No,Month-to-month,Yes,Electronic check,3,51.43,244.56,1,Price increase after promotional period
+TELCO-5881,Male,0,No,No,19,Yes,DSL,Yes,Yes,Month-to-month,Yes,Mailed check,0,65.6,1288.79,1,Service reliability and speed issues
+TELCO-5882,Male,0,No,No,44,Yes,Fiber optic,No,No,Two year,No,Bank transfer (automatic),3,72.04,2988.5,1,Switched to bundled streaming package
+TELCO-5883,Female,0,Yes,No,19,Yes,DSL,No,No,Month-to-month,Yes,Electronic check,0,57.26,1072.57,1,Switched to bundled streaming package
+TELCO-5884,Female,0,No,No,47,Yes,No,No,No,Two year,No,Mailed check,3,24.29,1165.81,0,Active Subscriber
+TELCO-5885,Male,0,No,No,1,Yes,DSL,Yes,No,Month-to-month,Yes,Electronic check,0,58.27,57.22,0,Active Subscriber
+TELCO-5886,Female,0,Yes,Yes,68,Yes,DSL,Yes,No,Two year,Yes,Electronic check,0,67.2,4508.16,0,Active Subscriber
+TELCO-5887,Female,0,Yes,No,32,Yes,No,No,No,Two year,Yes,Credit card (automatic),0,23.1,731.6,0,Active Subscriber
+TELCO-5888,Male,0,Yes,Yes,18,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Mailed check,0,80.64,1424.28,0,Active Subscriber
+TELCO-5889,Female,0,No,No,7,Yes,DSL,Yes,No,Month-to-month,Yes,Bank transfer (automatic),1,60.82,430.67,0,Active Subscriber
+TELCO-5890,Female,0,No,No,51,Yes,Fiber optic,Yes,Yes,Two year,No,Credit card (automatic),1,106.57,5204.65,0,Active Subscriber
+TELCO-5891,Female,0,Yes,Yes,20,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),0,22.26,415.51,1,Service reliability and speed issues
+TELCO-5892,Male,0,Yes,No,9,Yes,DSL,No,No,Month-to-month,Yes,Electronic check,1,56.21,501.63,1,Price increase after promotional period
+TELCO-5893,Male,0,Yes,No,2,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),1,29.07,58.58,0,Active Subscriber
+TELCO-5894,Male,0,No,No,26,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),2,24.64,639.05,0,Active Subscriber
+TELCO-5895,Female,1,No,No,12,Yes,Fiber optic,Yes,No,One year,No,Electronic check,1,96.7,1193.4,1,Customer dissatisfaction with support response time
+TELCO-5896,Female,0,Yes,No,3,Yes,Fiber optic,No,No,Month-to-month,No,Mailed check,0,75.9,211.94,1,Customer dissatisfaction with support response time
+TELCO-5897,Female,0,Yes,Yes,70,Yes,Fiber optic,No,Yes,Two year,Yes,Credit card (automatic),0,86.29,5869.97,0,Active Subscriber
+TELCO-5898,Female,1,Yes,Yes,40,Yes,Fiber optic,Yes,Yes,Two year,No,Electronic check,2,98.82,3726.04,0,Active Subscriber
+TELCO-5899,Female,0,No,No,22,Yes,Fiber optic,Yes,No,Month-to-month,No,Electronic check,0,83.54,1766.19,0,Active Subscriber
+TELCO-5900,Female,0,No,No,22,Yes,DSL,Yes,Yes,Month-to-month,No,Bank transfer (automatic),0,70.82,1570.25,1,Competitor offered better price
+TELCO-5901,Female,0,Yes,No,6,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Credit card (automatic),0,99.55,583.89,1,Customer dissatisfaction with support response time
+TELCO-5902,Male,0,Yes,Yes,26,Yes,DSL,Yes,No,Month-to-month,Yes,Credit card (automatic),3,70.07,1766.65,0,Active Subscriber
+TELCO-5903,Female,0,Yes,No,26,Yes,No,No,No,One year,Yes,Bank transfer (automatic),1,23.33,604.29,0,Active Subscriber
+TELCO-5904,Female,0,Yes,Yes,15,Yes,DSL,Yes,Yes,Month-to-month,No,Electronic check,1,63.92,943.1,1,Switched to bundled streaming package
+TELCO-5905,Male,0,No,No,18,Yes,Fiber optic,No,No,Month-to-month,Yes,Bank transfer (automatic),0,78.56,1429.64,0,Active Subscriber
+TELCO-5906,Male,0,Yes,Yes,6,Yes,DSL,Yes,Yes,Month-to-month,No,Credit card (automatic),3,79.08,495.88,1,Competitor offered better price
+TELCO-5907,Female,0,No,No,23,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Electronic check,1,96.67,2102.14,0,Active Subscriber
+TELCO-5908,Female,1,No,No,11,Yes,Fiber optic,Yes,No,Month-to-month,No,Credit card (automatic),1,89.55,977.16,1,Competitor offered better price
+TELCO-5909,Male,0,Yes,Yes,31,Yes,DSL,Yes,No,Month-to-month,Yes,Bank transfer (automatic),0,62.46,1940.6,1,Switched to bundled streaming package
+TELCO-5910,Female,0,No,No,43,Yes,Fiber optic,No,No,One year,No,Mailed check,1,74.32,2974.91,1,Competitor offered better price
+TELCO-5911,Male,1,Yes,No,35,Yes,No,No,No,Month-to-month,Yes,Mailed check,2,28.27,982.92,1,Customer dissatisfaction with support response time
+TELCO-5912,Female,0,No,No,36,Yes,Fiber optic,Yes,No,Month-to-month,No,Credit card (automatic),0,99.82,3400.27,1,Service reliability and speed issues
+TELCO-5913,Male,1,Yes,Yes,28,Yes,Fiber optic,No,No,Month-to-month,Yes,Credit card (automatic),0,86.22,2344.34,0,Active Subscriber
+TELCO-5914,Male,1,No,No,15,Yes,Fiber optic,No,No,Month-to-month,Yes,Credit card (automatic),4,81.04,1270.41,1,Relocation to uncovered service area
+TELCO-5915,Female,1,No,No,40,Yes,No,No,No,One year,No,Mailed check,0,24.86,980.95,0,Active Subscriber
+TELCO-5916,Female,0,Yes,Yes,27,Yes,Fiber optic,Yes,No,Month-to-month,No,Electronic check,0,85.79,2229.49,1,Relocation to uncovered service area
+TELCO-5917,Male,0,No,No,49,Yes,Fiber optic,Yes,No,One year,No,Bank transfer (automatic),3,100.65,5035.87,1,Price increase after promotional period
+TELCO-5918,Male,0,No,No,68,Yes,Fiber optic,No,No,Two year,Yes,Bank transfer (automatic),3,87.82,6219.82,0,Active Subscriber
+TELCO-5919,Female,1,Yes,Yes,65,Yes,Fiber optic,Yes,No,Two year,Yes,Electronic check,0,90.35,5869.38,0,Active Subscriber
+TELCO-5920,Male,0,Yes,Yes,37,Yes,Fiber optic,No,No,One year,No,Electronic check,0,68.83,2504.62,0,Active Subscriber
+TELCO-5921,Male,0,No,No,4,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Bank transfer (automatic),0,113.81,471.57,0,Active Subscriber
+TELCO-5922,Male,0,Yes,Yes,6,Yes,DSL,No,Yes,Month-to-month,No,Electronic check,3,57.83,350.68,1,Service reliability and speed issues
+TELCO-5923,Female,1,Yes,Yes,69,Yes,No,No,No,Two year,Yes,Mailed check,0,25.08,1779.69,0,Active Subscriber
+TELCO-5924,Male,1,Yes,Yes,28,Yes,No,No,No,Two year,No,Bank transfer (automatic),0,31.62,826.99,0,Active Subscriber
+TELCO-5925,Male,0,Yes,Yes,5,Yes,DSL,No,Yes,Month-to-month,Yes,Bank transfer (automatic),0,64.39,298.76,1,Relocation to uncovered service area
+TELCO-5926,Female,0,Yes,No,21,Yes,DSL,No,Yes,Month-to-month,Yes,Mailed check,0,56.96,1155.24,0,Active Subscriber
+TELCO-5927,Male,1,No,No,3,Yes,Fiber optic,No,No,Month-to-month,No,Electronic check,0,77.14,217.56,1,Switched to bundled streaming package
+TELCO-5928,Male,0,Yes,Yes,31,Yes,DSL,Yes,No,Month-to-month,No,Credit card (automatic),0,56.78,1808.51,0,Active Subscriber
+TELCO-5929,Male,0,Yes,Yes,35,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Bank transfer (automatic),0,94.08,3118.15,0,Active Subscriber
+TELCO-5930,Female,0,No,No,49,Yes,DSL,Yes,Yes,One year,Yes,Bank transfer (automatic),0,70.07,3502.65,0,Active Subscriber
+TELCO-5931,Male,0,No,No,32,Yes,Fiber optic,No,No,Month-to-month,Yes,Electronic check,2,85.33,2726.79,0,Active Subscriber
+TELCO-5932,Male,0,No,No,31,Yes,No,No,No,Month-to-month,No,Mailed check,0,27.08,854.6,1,Service reliability and speed issues
+TELCO-5933,Male,0,Yes,No,30,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0,95.97,2955.0,0,Active Subscriber
+TELCO-5934,Male,0,Yes,No,19,Yes,Fiber optic,No,No,One year,No,Mailed check,0,81.69,1452.33,0,Active Subscriber
+TELCO-5935,Female,0,No,No,4,Yes,DSL,Yes,No,Month-to-month,No,Mailed check,0,52.53,215.91,1,Relocation to uncovered service area
+TELCO-5936,Male,1,Yes,Yes,40,Yes,No,No,No,One year,Yes,Credit card (automatic),4,29.61,1241.38,0,Active Subscriber
+TELCO-5937,Female,0,No,No,14,Yes,Fiber optic,No,No,One year,No,Mailed check,0,86.91,1215.45,0,Active Subscriber
+TELCO-5938,Male,0,No,No,9,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),0,31.24,294.72,1,Customer dissatisfaction with support response time
+TELCO-5939,Male,0,Yes,No,30,Yes,Fiber optic,No,Yes,One year,Yes,Credit card (automatic),0,89.71,2643.32,1,Relocation to uncovered service area
+TELCO-5940,Male,0,No,No,2,Yes,DSL,Yes,No,Month-to-month,Yes,Credit card (automatic),0,55.27,108.94,1,Customer dissatisfaction with support response time
+TELCO-5941,Female,1,No,No,25,Yes,No,No,No,One year,No,Mailed check,0,32.1,761.32,0,Active Subscriber
+TELCO-5942,Male,0,No,No,25,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Mailed check,0,92.88,2393.75,1,Relocation to uncovered service area
+TELCO-5943,Male,0,No,No,17,Yes,Fiber optic,No,No,Month-to-month,Yes,Credit card (automatic),1,83.29,1460.65,1,Competitor offered better price
+TELCO-5944,Male,0,Yes,Yes,2,Yes,Fiber optic,Yes,No,Month-to-month,No,Bank transfer (automatic),0,84.6,167.97,1,Competitor offered better price
+TELCO-5945,Female,1,Yes,No,65,Yes,DSL,No,Yes,Two year,No,Mailed check,2,64.86,4377.14,0,Active Subscriber
+TELCO-5946,Male,0,Yes,No,20,Yes,DSL,Yes,No,Month-to-month,Yes,Mailed check,1,61.52,1268.5,0,Active Subscriber
+TELCO-5947,Male,0,No,No,15,Yes,DSL,Yes,Yes,Month-to-month,No,Mailed check,1,80.99,1125.46,1,Competitor offered better price
+TELCO-5948,Male,0,No,No,6,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),1,22.27,125.37,1,Price increase after promotional period
+TELCO-5949,Female,0,No,No,26,Yes,No,No,No,One year,Yes,Electronic check,4,31.59,763.5,0,Active Subscriber
+TELCO-5950,Male,0,Yes,Yes,18,Yes,DSL,No,No,One year,Yes,Bank transfer (automatic),0,55.81,997.05,0,Active Subscriber
+TELCO-5951,Male,0,No,No,39,Yes,Fiber optic,No,Yes,One year,Yes,Credit card (automatic),1,86.51,3314.04,0,Active Subscriber
+TELCO-5952,Male,0,Yes,Yes,26,Yes,DSL,Yes,No,Month-to-month,Yes,Credit card (automatic),3,64.56,1736.11,1,Customer dissatisfaction with support response time
+TELCO-5953,Male,0,No,No,13,Yes,No,No,No,Month-to-month,No,Electronic check,4,27.66,351.73,0,Active Subscriber
+TELCO-5954,Female,0,Yes,No,51,Yes,Fiber optic,Yes,Yes,One year,No,Mailed check,0,94.92,4753.59,0,Active Subscriber
+TELCO-5955,Female,0,Yes,No,5,Yes,DSL,No,Yes,Month-to-month,No,Electronic check,2,66.72,346.74,1,Relocation to uncovered service area
+TELCO-5956,Female,0,Yes,No,29,Yes,Fiber optic,No,No,Two year,No,Electronic check,1,90.01,2582.8,0,Active Subscriber
+TELCO-5957,Female,0,Yes,Yes,52,Yes,DSL,No,Yes,One year,No,Credit card (automatic),0,55.03,2699.95,0,Active Subscriber
+TELCO-5958,Male,0,Yes,No,16,Yes,Fiber optic,No,Yes,One year,No,Electronic check,1,86.0,1381.07,1,Competitor offered better price
+TELCO-5959,Female,0,No,No,8,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Credit card (automatic),0,88.19,707.23,1,Relocation to uncovered service area
+TELCO-5960,Male,0,Yes,No,39,Yes,No,No,No,One year,No,Bank transfer (automatic),0,29.16,1066.79,0,Active Subscriber
+TELCO-5961,Female,1,No,No,24,Yes,DSL,No,No,Month-to-month,No,Bank transfer (automatic),0,47.68,1186.85,1,Relocation to uncovered service area
+TELCO-5962,Male,0,No,No,28,Yes,Fiber optic,No,Yes,Month-to-month,No,Bank transfer (automatic),3,86.28,2504.07,1,Switched to bundled streaming package
+TELCO-5963,Female,0,No,No,34,Yes,No,No,No,One year,No,Mailed check,3,29.27,1000.29,0,Active Subscriber
+TELCO-5964,Male,0,No,No,57,Yes,DSL,No,Yes,Two year,No,Mailed check,0,60.81,3401.11,0,Active Subscriber
+TELCO-5965,Female,0,Yes,No,14,Yes,Fiber optic,No,No,One year,No,Bank transfer (automatic),2,93.96,1271.09,0,Active Subscriber
+TELCO-5966,Male,0,No,No,12,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Electronic check,1,95.62,1192.55,1,Switched to bundled streaming package
+TELCO-5967,Female,1,No,No,2,Yes,DSL,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),1,71.36,132.48,1,Service reliability and speed issues
+TELCO-5968,Male,0,Yes,Yes,15,Yes,DSL,No,Yes,Month-to-month,Yes,Credit card (automatic),1,68.7,1066.58,0,Active Subscriber
+TELCO-5969,Male,0,No,No,17,Yes,No,No,No,One year,Yes,Electronic check,0,25.64,446.2,0,Active Subscriber
+TELCO-5970,Male,0,Yes,Yes,23,Yes,DSL,No,No,Month-to-month,Yes,Bank transfer (automatic),1,55.93,1202.04,0,Active Subscriber
+TELCO-5971,Female,0,No,No,44,Yes,Fiber optic,Yes,Yes,Two year,No,Bank transfer (automatic),0,106.56,4370.7,0,Active Subscriber
+TELCO-5972,Male,0,Yes,No,16,Yes,DSL,No,Yes,Month-to-month,No,Electronic check,5,65.17,1019.25,1,Competitor offered better price
+TELCO-5973,Female,0,No,No,30,Yes,DSL,No,Yes,Two year,No,Electronic check,1,66.27,1873.97,0,Active Subscriber
+TELCO-5974,Female,0,Yes,No,39,Yes,Fiber optic,Yes,No,Two year,No,Electronic check,0,79.9,3240.69,0,Active Subscriber
+TELCO-5975,Male,0,Yes,No,20,Yes,No,No,No,One year,No,Credit card (automatic),0,27.94,580.52,0,Active Subscriber
+TELCO-5976,Male,1,Yes,Yes,6,Yes,DSL,No,Yes,Month-to-month,Yes,Electronic check,0,71.32,430.27,1,Customer dissatisfaction with support response time
+TELCO-5977,Female,0,Yes,No,31,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Credit card (automatic),0,102.26,3065.56,1,Price increase after promotional period
+TELCO-5978,Male,0,No,No,34,Yes,Fiber optic,Yes,No,Month-to-month,Yes,Bank transfer (automatic),0,90.55,3172.94,0,Active Subscriber
+TELCO-5979,Female,0,Yes,No,49,Yes,No,No,No,One year,Yes,Electronic check,0,29.31,1411.62,0,Active Subscriber
+TELCO-5980,Male,1,No,No,25,Yes,Fiber optic,Yes,No,One year,Yes,Credit card (automatic),0,100.65,2595.36,0,Active Subscriber
+TELCO-5981,Male,0,No,No,5,Yes,DSL,No,Yes,Month-to-month,No,Mailed check,1,60.59,309.7,1,Relocation to uncovered service area
+TELCO-5982,Male,0,No,No,23,Yes,DSL,No,Yes,Month-to-month,Yes,Bank transfer (automatic),3,65.85,1560.83,1,Service reliability and speed issues
+TELCO-5983,Female,0,Yes,Yes,14,Yes,Fiber optic,No,Yes,One year,No,Bank transfer (automatic),3,99.24,1438.43,1,Service reliability and speed issues
+TELCO-5984,Female,0,No,No,30,Yes,DSL,Yes,Yes,Month-to-month,No,Electronic check,1,63.72,1927.51,0,Active Subscriber
+TELCO-5985,Male,0,Yes,Yes,52,Yes,No,No,No,Two year,Yes,Bank transfer (automatic),0,29.32,1436.86,0,Active Subscriber
+TELCO-5986,Female,0,No,No,12,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Electronic check,3,90.46,1003.13,1,Price increase after promotional period
+TELCO-5987,Male,0,No,No,6,Yes,No,No,No,Month-to-month,No,Mailed check,2,24.61,148.3,0,Active Subscriber
+TELCO-5988,Female,0,No,No,17,Yes,Fiber optic,Yes,Yes,One year,Yes,Electronic check,4,92.57,1500.37,0,Active Subscriber
+TELCO-5989,Female,0,Yes,Yes,30,Yes,DSL,Yes,No,Month-to-month,No,Electronic check,2,63.9,1765.24,0,Active Subscriber
+TELCO-5990,Male,0,No,No,31,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),0,26.62,774.41,0,Active Subscriber
+TELCO-5991,Male,0,No,No,28,Yes,Fiber optic,No,Yes,Month-to-month,No,Credit card (automatic),0,99.94,2661.95,0,Active Subscriber
+TELCO-5992,Female,1,No,No,32,Yes,No,No,No,Month-to-month,Yes,Mailed check,1,26.09,790.61,0,Active Subscriber
+TELCO-5993,Female,0,Yes,Yes,20,Yes,DSL,No,No,Month-to-month,No,Credit card (automatic),0,66.49,1274.78,1,Switched to bundled streaming package
+TELCO-5994,Male,0,Yes,Yes,19,Yes,DSL,Yes,Yes,Month-to-month,Yes,Credit card (automatic),5,74.38,1394.11,0,Active Subscriber
+TELCO-5995,Male,1,No,No,25,Yes,Fiber optic,No,No,Month-to-month,No,Electronic check,0,77.93,1942.62,1,Customer dissatisfaction with support response time
+TELCO-5996,Male,0,Yes,No,48,Yes,DSL,Yes,Yes,One year,Yes,Electronic check,1,74.44,3740.41,1,Competitor offered better price
+TELCO-5997,Female,0,Yes,Yes,29,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),1,93.44,2552.98,0,Active Subscriber
+TELCO-5998,Male,0,Yes,Yes,15,Yes,No,No,No,One year,No,Bank transfer (automatic),1,26.41,408.13,0,Active Subscriber
+TELCO-5999,Female,0,No,No,32,Yes,DSL,No,Yes,Two year,Yes,Electronic check,0,60.51,1808.21,0,Active Subscriber
+TELCO-6000,Female,1,No,No,32,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Credit card (automatic),3,102.16,3097.37,1,Relocation to uncovered service area
+TELCO-6001,Male,0,Yes,No,62,Yes,Fiber optic,No,Yes,Two year,No,Mailed check,1,85.18,5068.13,0,Active Subscriber
+TELCO-6002,Male,0,Yes,No,22,Yes,DSL,No,Yes,One year,Yes,Mailed check,1,66.55,1479.77,1,Competitor offered better price
+TELCO-6003,Female,1,No,No,13,Yes,DSL,Yes,No,Month-to-month,Yes,Mailed check,0,61.4,778.09,0,Active Subscriber
+TELCO-6004,Female,0,Yes,No,23,Yes,DSL,No,Yes,Month-to-month,No,Bank transfer (automatic),1,71.92,1683.05,1,Relocation to uncovered service area
+TELCO-6005,Male,0,Yes,Yes,64,Yes,No,No,No,Two year,No,Bank transfer (automatic),0,24.4,1467.96,0,Active Subscriber
+TELCO-6006,Male,0,Yes,Yes,35,Yes,Fiber optic,No,No,Two year,Yes,Mailed check,2,91.33,3316.74,0,Active Subscriber
+TELCO-6007,Male,0,No,No,36,Yes,DSL,Yes,Yes,Month-to-month,Yes,Electronic check,0,73.33,2515.07,1,Competitor offered better price
+TELCO-6008,Male,0,No,No,31,Yes,DSL,No,Yes,One year,No,Mailed check,1,70.71,2119.91,0,Active Subscriber
+TELCO-6009,Male,0,Yes,No,33,Yes,DSL,Yes,No,Month-to-month,Yes,Mailed check,4,67.98,2082.65,1,Relocation to uncovered service area
+TELCO-6010,Female,0,Yes,Yes,22,Yes,DSL,No,Yes,One year,No,Electronic check,1,68.08,1503.79,0,Active Subscriber
+TELCO-6011,Male,0,Yes,Yes,30,Yes,Fiber optic,No,No,Two year,Yes,Bank transfer (automatic),0,81.61,2536.2,0,Active Subscriber
+TELCO-6012,Female,0,Yes,Yes,1,Yes,No,No,No,Month-to-month,No,Credit card (automatic),0,30.29,30.61,0,Active Subscriber
+TELCO-6013,Male,0,No,No,29,Yes,No,No,No,One year,No,Electronic check,0,26.58,709.96,0,Active Subscriber
+TELCO-6014,Male,1,No,No,4,Yes,Fiber optic,No,No,Month-to-month,Yes,Credit card (automatic),3,90.62,357.45,1,Competitor offered better price
+TELCO-6015,Male,0,No,No,12,Yes,DSL,Yes,Yes,Month-to-month,No,Credit card (automatic),0,69.69,795.67,0,Active Subscriber
+TELCO-6016,Female,0,Yes,No,35,Yes,DSL,Yes,No,Month-to-month,Yes,Electronic check,2,60.58,2166.35,0,Active Subscriber
+TELCO-6017,Female,0,Yes,Yes,13,Yes,DSL,No,Yes,Month-to-month,Yes,Mailed check,0,64.2,855.28,0,Active Subscriber
+TELCO-6018,Male,1,No,No,12,Yes,DSL,No,No,Month-to-month,Yes,Credit card (automatic),4,61.91,710.94,0,Active Subscriber
+TELCO-6019,Female,0,No,No,36,Yes,Fiber optic,Yes,No,Month-to-month,No,Bank transfer (automatic),3,102.37,3694.05,0,Active Subscriber
+TELCO-6020,Male,0,No,No,62,Yes,DSL,No,No,Two year,No,Credit card (automatic),0,58.71,3394.31,0,Active Subscriber
+TELCO-6021,Male,0,Yes,Yes,29,Yes,DSL,No,Yes,One year,No,Credit card (automatic),1,59.44,1806.8,0,Active Subscriber
+TELCO-6022,Female,0,No,No,6,Yes,Fiber optic,No,Yes,Month-to-month,No,Electronic check,0,85.56,528.77,0,Active Subscriber
+TELCO-6023,Male,0,No,No,40,Yes,No,No,No,One year,No,Credit card (automatic),2,32.26,1204.38,0,Active Subscriber
+TELCO-6024,Female,0,No,No,19,Yes,DSL,Yes,Yes,Month-to-month,Yes,Mailed check,0,70.56,1278.83,1,Service reliability and speed issues
+TELCO-6025,Female,0,No,No,21,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),2,32.19,688.65,0,Active Subscriber
+TELCO-6026,Male,0,No,No,17,Yes,No,No,No,Month-to-month,No,Electronic check,1,30.24,533.18,0,Active Subscriber
+TELCO-6027,Male,1,No,No,22,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),3,31.29,638.29,0,Active Subscriber
+TELCO-6028,Female,0,No,No,39,Yes,Fiber optic,No,Yes,Two year,No,Mailed check,2,105.22,4051.26,0,Active Subscriber
+TELCO-6029,Male,0,Yes,Yes,10,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Bank transfer (automatic),0,111.15,1086.05,0,Active Subscriber
+TELCO-6030,Male,0,No,No,36,Yes,DSL,No,No,One year,Yes,Mailed check,0,51.39,1884.58,0,Active Subscriber
+TELCO-6031,Male,1,No,No,25,Yes,Fiber optic,No,No,Month-to-month,Yes,Mailed check,0,78.22,1989.01,1,Customer dissatisfaction with support response time
+TELCO-6032,Male,0,No,No,19,Yes,Fiber optic,No,Yes,One year,No,Bank transfer (automatic),3,100.99,1986.29,0,Active Subscriber
+TELCO-6033,Female,0,No,No,56,Yes,Fiber optic,No,No,Two year,No,Credit card (automatic),0,93.53,5236.91,0,Active Subscriber
+TELCO-6034,Female,0,No,No,33,Yes,No,No,No,One year,No,Mailed check,0,31.23,966.68,0,Active Subscriber
+TELCO-6035,Female,1,Yes,No,21,Yes,DSL,No,No,One year,No,Credit card (automatic),1,49.26,954.73,1,Price increase after promotional period
+TELCO-6036,Female,0,No,No,4,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),2,95.08,388.89,0,Active Subscriber
+TELCO-6037,Female,0,Yes,Yes,22,Yes,Fiber optic,No,No,Month-to-month,Yes,Mailed check,4,75.9,1743.27,1,Competitor offered better price
+TELCO-6038,Male,1,Yes,Yes,5,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),1,30.11,139.68,0,Active Subscriber
+TELCO-6039,Female,0,Yes,Yes,17,Yes,DSL,No,No,One year,No,Mailed check,2,61.45,1035.45,0,Active Subscriber
+TELCO-6040,Female,0,Yes,Yes,18,Yes,Fiber optic,No,No,Month-to-month,No,Credit card (automatic),1,92.82,1693.6,0,Active Subscriber
+TELCO-6041,Female,0,Yes,No,24,Yes,Fiber optic,No,No,Month-to-month,Yes,Bank transfer (automatic),2,80.42,1779.88,0,Active Subscriber
+TELCO-6042,Male,0,Yes,No,31,Yes,Fiber optic,No,Yes,Month-to-month,No,Mailed check,3,85.78,2681.66,1,Competitor offered better price
+TELCO-6043,Female,0,Yes,No,6,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Mailed check,0,97.22,555.86,1,Service reliability and speed issues
+TELCO-6044,Male,0,No,No,42,Yes,Fiber optic,Yes,Yes,One year,No,Electronic check,1,93.95,3961.16,0,Active Subscriber
+TELCO-6045,Female,0,No,No,13,Yes,Fiber optic,No,Yes,Month-to-month,No,Bank transfer (automatic),0,79.64,953.66,0,Active Subscriber
+TELCO-6046,Female,0,Yes,Yes,47,Yes,No,No,No,Two year,Yes,Credit card (automatic),1,30.53,1439.07,0,Active Subscriber
+TELCO-6047,Male,0,No,No,45,Yes,DSL,No,Yes,One year,Yes,Credit card (automatic),1,70.24,3252.89,0,Active Subscriber
+TELCO-6048,Male,0,Yes,No,13,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),3,103.71,1408.72,1,Customer dissatisfaction with support response time
+TELCO-6049,Male,0,Yes,Yes,18,Yes,Fiber optic,Yes,Yes,One year,No,Mailed check,1,103.51,1756.12,1,Competitor offered better price
+TELCO-6050,Male,0,No,No,4,Yes,Fiber optic,No,No,Month-to-month,No,Mailed check,0,75.8,316.48,1,Service reliability and speed issues
+TELCO-6051,Female,0,No,No,36,Yes,DSL,No,Yes,Month-to-month,No,Bank transfer (automatic),1,57.46,1984.58,0,Active Subscriber
+TELCO-6052,Female,0,No,No,36,Yes,No,No,No,Month-to-month,Yes,Electronic check,0,23.32,853.34,0,Active Subscriber
+TELCO-6053,Female,0,Yes,Yes,18,Yes,No,No,No,One year,Yes,Credit card (automatic),5,32.09,533.13,0,Active Subscriber
+TELCO-6054,Male,0,Yes,Yes,35,Yes,No,No,No,Month-to-month,Yes,Mailed check,1,23.36,767.22,0,Active Subscriber
+TELCO-6055,Female,0,No,No,13,Yes,DSL,Yes,No,Month-to-month,No,Electronic check,2,62.87,819.01,1,Price increase after promotional period
+TELCO-6056,Male,0,No,No,11,Yes,DSL,Yes,No,Month-to-month,Yes,Credit card (automatic),3,66.01,681.78,1,Service reliability and speed issues
+TELCO-6057,Female,0,No,No,45,Yes,DSL,No,Yes,Two year,Yes,Bank transfer (automatic),1,67.06,2849.36,0,Active Subscriber
+TELCO-6058,Male,0,Yes,No,35,Yes,Fiber optic,No,Yes,Two year,Yes,Bank transfer (automatic),0,99.2,3551.4,0,Active Subscriber
+TELCO-6059,Female,1,No,No,22,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),3,29.62,603.04,1,Switched to bundled streaming package
+TELCO-6060,Female,0,No,No,15,Yes,Fiber optic,No,No,Month-to-month,No,Credit card (automatic),2,83.64,1238.2,1,Relocation to uncovered service area
+TELCO-6061,Male,0,No,No,18,Yes,Fiber optic,Yes,Yes,One year,Yes,Credit card (automatic),0,107.68,1984.6,0,Active Subscriber
+TELCO-6062,Female,0,No,No,37,Yes,Fiber optic,Yes,Yes,Two year,No,Bank transfer (automatic),2,102.15,3638.97,0,Active Subscriber
+TELCO-6063,Female,0,Yes,Yes,59,Yes,DSL,No,Yes,Two year,No,Electronic check,4,71.2,3995.46,0,Active Subscriber
+TELCO-6064,Male,0,No,No,28,Yes,Fiber optic,Yes,No,One year,No,Credit card (automatic),2,98.49,2847.04,0,Active Subscriber
+TELCO-6065,Male,0,Yes,Yes,12,Yes,DSL,Yes,Yes,One year,Yes,Mailed check,0,77.84,951.66,0,Active Subscriber
+TELCO-6066,Male,0,No,No,32,Yes,DSL,No,No,Month-to-month,No,Bank transfer (automatic),0,62.2,1961.16,0,Active Subscriber
+TELCO-6067,Female,1,No,No,21,Yes,No,No,No,One year,No,Mailed check,0,27.22,531.79,0,Active Subscriber
+TELCO-6068,Female,0,No,No,41,Yes,Fiber optic,No,No,One year,Yes,Electronic check,2,82.97,3556.54,1,Price increase after promotional period
+TELCO-6069,Female,0,Yes,Yes,22,Yes,Fiber optic,No,Yes,Month-to-month,No,Bank transfer (automatic),2,96.63,2017.7,1,Service reliability and speed issues
+TELCO-6070,Female,0,Yes,No,14,Yes,DSL,Yes,Yes,Month-to-month,Yes,Electronic check,2,69.79,943.47,1,Customer dissatisfaction with support response time
+TELCO-6071,Male,0,No,No,29,Yes,DSL,Yes,No,One year,Yes,Bank transfer (automatic),2,53.72,1587.03,0,Active Subscriber
+TELCO-6072,Female,0,Yes,No,33,Yes,Fiber optic,Yes,Yes,Month-to-month,No,Electronic check,2,106.95,3692.43,1,Service reliability and speed issues
+TELCO-6073,Male,0,No,No,55,Yes,Fiber optic,No,No,Two year,No,Bank transfer (automatic),0,82.69,4245.8,0,Active Subscriber
+TELCO-6074,Male,0,Yes,No,18,Yes,No,No,No,Month-to-month,No,Mailed check,1,27.33,512.15,1,Service reliability and speed issues
+TELCO-6075,Male,0,No,No,52,Yes,Fiber optic,No,Yes,One year,Yes,Bank transfer (automatic),2,93.48,5056.92,0,Active Subscriber
+TELCO-6076,Male,1,No,No,67,Yes,DSL,Yes,Yes,Two year,No,Bank transfer (automatic),1,82.22,5424.05,0,Active Subscriber
+TELCO-6077,Male,0,No,No,31,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),2,26.08,811.21,1,Price increase after promotional period
+TELCO-6078,Male,0,No,No,24,Yes,DSL,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),0,73.46,1706.87,0,Active Subscriber
+TELCO-6079,Male,0,Yes,Yes,31,Yes,DSL,No,Yes,Month-to-month,No,Credit card (automatic),0,67.09,1986.98,0,Active Subscriber
+TELCO-6080,Male,0,No,No,28,Yes,DSL,No,Yes,Month-to-month,No,Electronic check,0,58.4,1618.55,1,Price increase after promotional period
+TELCO-6081,Male,1,Yes,No,16,Yes,DSL,No,No,Month-to-month,Yes,Bank transfer (automatic),0,65.88,1010.65,0,Active Subscriber
+TELCO-6082,Female,0,Yes,No,30,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),1,29.08,854.19,1,Switched to bundled streaming package
+TELCO-6083,Male,0,No,No,33,Yes,DSL,No,No,One year,Yes,Mailed check,0,55.18,1770.26,0,Active Subscriber
+TELCO-6084,Female,0,No,No,14,Yes,No,No,No,Month-to-month,No,Mailed check,0,26.12,365.88,1,Service reliability and speed issues
+TELCO-6085,Female,0,Yes,No,31,Yes,DSL,No,No,One year,No,Electronic check,1,64.73,2063.36,0,Active Subscriber
+TELCO-6086,Male,0,No,No,53,Yes,Fiber optic,Yes,Yes,One year,No,Credit card (automatic),0,91.22,4942.58,1,Competitor offered better price
+TELCO-6087,Female,0,No,No,27,Yes,Fiber optic,No,No,One year,Yes,Bank transfer (automatic),2,89.51,2529.5,0,Active Subscriber
+TELCO-6088,Male,0,Yes,No,25,Yes,DSL,No,Yes,Month-to-month,Yes,Credit card (automatic),0,58.32,1360.46,0,Active Subscriber
+TELCO-6089,Male,0,No,No,53,Yes,No,No,No,One year,Yes,Credit card (automatic),1,27.06,1369.73,0,Active Subscriber
+TELCO-6090,Male,1,No,No,24,Yes,Fiber optic,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0,111.32,2658.8,0,Active Subscriber
+TELCO-6091,Female,1,No,No,4,Yes,Fiber optic,No,No,Month-to-month,Yes,Mailed check,0,85.08,333.2,1,Customer dissatisfaction with support response time
+TELCO-6092,Male,0,Yes,No,52,Yes,Fiber optic,No,No,One year,Yes,Credit card (automatic),0,72.61,3625.7,0,Active Subscriber
+TELCO-6093,Male,0,No,No,18,Yes,No,No,No,Month-to-month,Yes,Mailed check,2,22.69,403.36,0,Active Subscriber
+TELCO-6094,Male,0,No,No,21,Yes,Fiber optic,No,No,One year,Yes,Mailed check,4,80.45,1639.91,1,Switched to bundled streaming package
+TELCO-6095,Female,0,No,No,28,Yes,No,No,No,Two year,No,Credit card (automatic),4,29.78,782.47,0,Active Subscriber
+TELCO-6096,Male,0,Yes,No,6,Yes,Fiber optic,Yes,No,Month-to-month,No,Mailed check,2,97.01,605.36,0,Active Subscriber
+TELCO-6097,Female,0,No,No,12,Yes,Fiber optic,No,No,Month-to-month,No,Bank transfer (automatic),0,87.28,1014.6,1,Price increase after promotional period
+TELCO-6098,Male,0,No,No,14,Yes,Fiber optic,No,Yes,Month-to-month,Yes,Mailed check,0,87.59,1216.25,0,Active Subscriber
+TELCO-6099,Female,0,Yes,No,40,Yes,No,No,No,Two year,Yes,Mailed check,0,32.33,1253.96,0,Active Subscriber
