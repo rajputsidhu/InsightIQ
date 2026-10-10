@@ -153,7 +153,7 @@ def render_data_quality_page():
             target_null_col = st.selectbox("Select Column to Impute", options=list(current_df.columns), key="dq_impute_col")
 
             if target_null_col:
-                is_num = np.issubdtype(current_df[target_null_col].dtype, np.number)
+                is_num = pd.api.types.is_numeric_dtype(current_df[target_null_col])
                 if is_num:
                     strategy = st.selectbox("Numeric Strategy", options=["median", "mean", "zero", "custom"], key="dq_num_strat")
                     custom_v = None

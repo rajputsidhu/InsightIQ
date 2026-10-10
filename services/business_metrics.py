@@ -37,7 +37,7 @@ def infer_business_columns(df: pd.DataFrame) -> Dict[str, Optional[str]]:
     rev_candidates = ["net_revenue", "gross_revenue", "revenue", "sales", "total_amount", "amount", "total_price", "mrr", "charges"]
     for cand in rev_candidates:
         for c, norm in col_lower.items():
-            if cand == norm or (cand in norm and np.issubdtype(df[c].dtype, np.number)):
+            if cand == norm or (cand in norm and pd.api.types.is_numeric_dtype(df[c])):
                 mapping["revenue"] = c
                 break
         if mapping["revenue"]:
@@ -47,7 +47,7 @@ def infer_business_columns(df: pd.DataFrame) -> Dict[str, Optional[str]]:
     profit_candidates = ["profit", "net_profit", "margin_amount", "earnings"]
     for cand in profit_candidates:
         for c, norm in col_lower.items():
-            if cand in norm and np.issubdtype(df[c].dtype, np.number):
+            if cand in norm and pd.api.types.is_numeric_dtype(df[c]):
                 mapping["profit"] = c
                 break
         if mapping["profit"]:
@@ -107,7 +107,7 @@ def infer_business_columns(df: pd.DataFrame) -> Dict[str, Optional[str]]:
     qty_candidates = ["quantity", "qty", "units", "items_count"]
     for cand in qty_candidates:
         for c, norm in col_lower.items():
-            if cand in norm and np.issubdtype(df[c].dtype, np.number):
+            if cand in norm and pd.api.types.is_numeric_dtype(df[c]):
                 mapping["quantity"] = c
                 break
         if mapping["quantity"]:

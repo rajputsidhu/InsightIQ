@@ -115,7 +115,7 @@ def render_data_explorer_page():
         selected_col = st.selectbox("Select Attribute to Inspect", options=list(df.columns), key="explorer_dist_col")
 
         if selected_col:
-            if np.issubdtype(df[selected_col].dtype, np.number):
+            if pd.api.types.is_numeric_dtype(df[selected_col]):
                 fig = px.histogram(
                     df,
                     x=selected_col,

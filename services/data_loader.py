@@ -115,12 +115,12 @@ def profile_dataset(df: pd.DataFrame) -> Dict[str, Any]:
     missing_total = int(df.isnull().sum().sum())
     missing_pct = round((missing_total / (row_count * col_count)) * 100, 2) if (row_count * col_count) > 0 else 0.0
 
-    numeric_cols = df.select_dtypes(include=[np.number]).columns.tolist()
+    numeric_cols = [c for c in df.columns if pd.api.types.is_numeric_dtype(df[c])]
     
     # Detect potential date columns
     date_cols = []
     for col in df.columns:
-        if np.issubdtype(df[col].dtype, np.datetime64):
+        if pd.api.types.is_datetime64_any_dtype(df[col]):
             date_cols.append(col)
         elif df[col].dtype == object or str(df[col].dtype) == "string":
             sample = df[col].dropna().astype(str).head(20)

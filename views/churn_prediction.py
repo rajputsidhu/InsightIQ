@@ -313,7 +313,7 @@ def render_churn_prediction_page():
 
         for idx, feat in enumerate(features):
             with sim_cols[idx % 2]:
-                if np.issubdtype(df[feat].dtype, np.number):
+                if pd.api.types.is_numeric_dtype(df[feat]):
                     min_v = float(df[feat].min())
                     max_v = float(df[feat].max())
                     default_v = float(df[feat].median())
@@ -324,7 +324,7 @@ def render_churn_prediction_page():
 
         for feat in pipeline.feature_cols:
             if feat not in sim_inputs:
-                if np.issubdtype(df[feat].dtype, np.number):
+                if pd.api.types.is_numeric_dtype(df[feat]):
                     sim_inputs[feat] = float(df[feat].median())
                 else:
                     mode_v = df[feat].mode()

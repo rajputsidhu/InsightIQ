@@ -130,7 +130,7 @@ class DataCleaningService:
 
     def cap_outliers_iqr(self, col: str, factor: float = 1.5) -> Tuple[int, "DataCleaningService"]:
         """Cap extreme statistical outliers to IQR threshold boundaries (Winsorization)."""
-        if col not in self.clean_df.columns or not np.issubdtype(self.clean_df[col].dtype, np.number):
+        if col not in self.clean_df.columns or not pd.api.types.is_numeric_dtype(self.clean_df[col]):
             return 0, self
 
         series = self.clean_df[col].dropna()
